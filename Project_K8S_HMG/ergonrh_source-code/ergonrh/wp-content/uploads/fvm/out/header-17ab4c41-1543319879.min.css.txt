@@ -1,0 +1,12 @@
+PROCESSED on Tue, 27 Nov 2018 12:32:21 +0000
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/themes/salient/css/rgs.css
+/wp-content/themes/salient/css/font-awesome.min.css
+/wp-content/themes/salient/style.css
+/wp-content/themes/salient/css/magnific.css
+/wp-content/themes/salient/css/responsive.css
+/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css
+/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css
+/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from http://www.ergonrh.com.br/contato/

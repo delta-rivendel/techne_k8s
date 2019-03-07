@@ -1,0 +1,31 @@
+[26-Sep-2017 22:07:56 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('', false)
+#1 /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/src/Admin/Job.php(493): Google_Client->authenticate('')
+#2 [internal function]: MyWPBackup\Admin\Job->drive_token('')
+#3 /home/souto435/public_html/hygia/wp-includes/class-wp-hook.php(298): call_user_func_array(Array, Array)
+#4 /home/souto435/public_html/hygia/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#5 /home/souto435/public_html/hygia/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/souto435/public_html/hygia/wp-admin/admin-ajax.php(91): do_action('wp_ajax_wp_back...')
+#7 {main}
+  thrown in /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 88
+[26-Sep-2017 22:07:57 UTC] PHP Fatal error:  Uncaught exception 'Google_Auth_Exception' with message 'Invalid code' in /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Auth/OAuth2.php:88
+Stack trace:
+#0 /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Client.php(128): Google_Auth_OAuth2->authenticate('', false)
+#1 /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/src/Admin/Job.php(493): Google_Client->authenticate('')
+#2 [internal function]: MyWPBackup\Admin\Job->drive_token('')
+#3 /home/souto435/public_html/hygia/wp-includes/class-wp-hook.php(298): call_user_func_array(Array, Array)
+#4 /home/souto435/public_html/hygia/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#5 /home/souto435/public_html/hygia/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/souto435/public_html/hygia/wp-admin/admin-ajax.php(91): do_action('wp_ajax_wp_back...')
+#7 {main}
+  thrown in /home/souto435/public_html/hygia/wp-content/plugins/my-wp-backup/vendor/google/apiclient/src/Google/Auth/OAuth2.php on line 88
+[27-Sep-2017 22:38:40 UTC] PHP Warning:  Creating default object from empty value in /home/souto435/public_html/hygia/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 118
+[27-Sep-2017 22:38:40 UTC] PHP Notice:  Undefined property: stdClass::$sections in /home/souto435/public_html/hygia/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 119
+[30-Sep-2017 19:06:43 UTC] PHP Warning:  Creating default object from empty value in /home/souto435/public_html/hygia/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 118
+[30-Sep-2017 19:06:43 UTC] PHP Notice:  Undefined property: stdClass::$sections in /home/souto435/public_html/hygia/wp-content/plugins/js_composer/include/classes/updaters/class-vc-updating-manager.php on line 119
+[02-Oct-2017 20:28:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home/souto435/public_html/hygia/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[02-Oct-2017 20:28:56 UTC] PHP Warning:  sprintf(): Too few arguments in /home/souto435/public_html/hygia/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[02-Oct-2017 20:28:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/souto435/public_html/hygia/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[02-Oct-2017 20:28:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/souto435/public_html/hygia/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[02-Oct-2017 20:28:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home/souto435/public_html/hygia/wp-admin/includes/class-bulk-upgrader-skin.php on line 154

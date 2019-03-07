@@ -1,0 +1,45 @@
+#Roadmap of steps to deploy a site of Techne in K8S,
+
+1 - Criar os repositórios no github da Techne que hospedarão o core do Wodpress, os temas e os plugins separadamente com a seguinte nomenclatura :
+
+<site>_<website ou blog>_core
+<site>_<website ou blog>_themes
+<site>_<website ou blog>_plugins
+
+2 - Realizar upload de forma separada nos 3 repositórios, atualmente os arquivos estão separados da seguinte maneira :
+core - repositorio do github InfraAScode/<site>/
+themes - ec2 softnas (ip - 35.153.244.249 ) diretório /wp-techne/wp-static/<site>/wp-content/themes
+plugins - ec2 softnas (ip - 35.153.244.249 ) diretório /wp-techne/wp-static/<site>/wp-content/plugins
+
+Obs.: as demais pastas de wp-content devem ser upadas no repositório do core.
+
+3 - Compilar imagem docker do site, de acordo com o Dockerfile localizados no mesmo repositorio do core do Wordpress (github InfraAScode/<site>/)
+
+4 - Upload da imagem docker para um registry publico (em HMG esta sendo utilizado uma conta no dockerhub)
+
+5 - Criar pasta no efs da Techne com nome do site ou blog (efs está montado na máquina ip - 3.80.34.3 em /mnt/efs)
+
+6 - Editar arquivos YAML do Kubernetes :
+svc - Expõe o Pod através de um load balancer publico
+pv - Cria o Volume Persistente para montagem no Pod
+pvc - Cria a cadeia que define o filesystem, tamanho e ID do Volume Persistente
+<site>-deployment.yaml - Cria o pod e monta o volume Persistente
+
+7 - Realizar clone dos repositorios do githubs (core, themes e plugin) do site desejado dentro do EFS (/mnt/efs/<site>)
+
+8 - Criar no kubernetes o namespace (<site>) e secret contendo a senha do banco de dados a ser usado pelo Pod
+
+9 - Criar no kubernetes o SVC, PV, PVC e Deployment dos arquivos editados no passo 6
+
+10 - Atrelar certificado SSL no load balancer na Amazon criado pelo Kubernetes para o pod do site
+
+11 - Criar CDN (usar UAF padrão de WP já configurado) e apontar para o Load Balancer que foi criado na Amazon e atrelado certificado digital
+
+12 - Efetuar todos os testes usando dns do Load Balancer e dns da CDN
+
+13 - Efetuar atualização do Wordpress Core, plugins e temas via EFS (procedimento de atualização do Core descrito no Link : )
+Obs.: Para atualização dos Plugins é necessário baixar o plugin no EFS dentro de wp-content/plugins e após ir no wp-admin e clicar em ativar o plugins
+
+14 - Instalar o plugin <Plugin> e alterar o wp-admin para hash e documentar na Wiki
+
+15 - Após todos os passos validados, combinar com o Taylor para ele testar e após isso, virar a produção para o Pod (mudando o endereço no Route53)

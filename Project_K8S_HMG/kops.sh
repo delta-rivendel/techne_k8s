@@ -1,0 +1,20 @@
+/usr/bin/kops create cluster \
+--name=k8s.techne.com.br \
+--state=s3://k8s.techne.com.br \
+--dns-zone=k8s.techne.com.br \
+--vpc=vpc-44a02121 \
+--topology=public \
+--bastion=false \
+--kubernetes-version=1.10.12 \
+--master-count=3 \
+--master-size=t2.medium \
+--master-zones=us-east-1c,us-east-1d \
+--networking=calico \
+--node-count=2 \
+--node-size=t2.medium \
+--node-volume-size=160 \
+--zones=us-east-1c,us-east-1d \
+--subnets subnet-0642203334c1dcd17,subnet-95cc0dcc \
+--utility-subnets subnet-0642203334c1dcd17,subnet-95cc0dcc \
+--authorization=RBAC \
+--ssh-public-key="id_rsa.pub"

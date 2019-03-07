@@ -1,0 +1,89 @@
+0000.002 () Opened log file at time: Tue, 20 Feb 2018 18:37:51 +0000 on http://www.ergonrh.com.br
+0000.003 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.5.9-1ubuntu4.21 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-119-generic #166-Ubuntu SMP Wed May 3 12:18:55 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 69M | 69.8M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 () Free space on disk containing Updraft's temporary directory: 2061.7 MB
+0000.004 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.037 () Entity: db
+0000.037 () restore_backup(backup_file=backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz, type=db, info=a:0:{}, last_one=)
+0000.037 () Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz, 0.3 Mb)
+0000.038 () Database successfully unpacked
+0000.038 () Restaurando o banco de dados (em um site grande isso pode levar um longo tempo - se o tempo se esgotar (o que pode ocorrer se a empresa de hospedagem web configurou a sua hospedagem com limitação de recursos) então você deveria utilizar um método diferente, como o phpMyAdmin)...
+0000.038 () Using direct MySQL access; value of use_mysqli is: 1
+0000.059 () Tried to raise max_allowed_packet from 16 MB to 32 MB, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.059 () Max packet size: 16 MB
+0000.059 () Entering maintenance mode
+0000.059 () Ativando modo de manutenção&#8230;
+0000.060 () Backup of: http://www.ergonrh.com.br
+0000.061 () Content URL: http://www.ergonrh.com.br/wp-content
+0000.061 () Uploads URL: http://www.ergonrh.com.br/wp-content/uploads
+0000.061 () Old table prefix: wp_
+0000.062 () Site information: multisite=0
+0000.068 () New table prefix: wp_
+0000.072 () Processing table (MyISAM): wp_options
+0000.178 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.187 () Processing table (MyISAM): wp_users
+0000.194 () Processing table (MyISAM): wp_usermeta
+0000.220 () Processing table (MyISAM): wp_commentmeta
+0000.226 () Processing table (MyISAM): wp_comments
+0000.231 () Processing table (MyISAM): wp_links
+0000.236 () Processing table (MyISAM): wp_postmeta
+0000.423 () Processing table (MyISAM): wp_posts
+0000.651 () Processing table (MyISAM): wp_term_relationships
+0000.659 () Processing table (MyISAM): wp_term_taxonomy
+0000.671 () Processing table (MyISAM): wp_termmeta
+0000.676 () Processing table (MyISAM): wp_terms
+0000.684 () Processing table (MyISAM): wp_duplicator_packages
+0000.689 () Processing table (MyISAM): wp_woocommerce_api_keys
+0000.694 () Processing table (MyISAM): wp_woocommerce_attribute_taxonomies
+0000.697 () Database queries processed: 50 in 0.66 seconds
+0000.700 () Processing table (MyISAM): wp_woocommerce_downloadable_product_permissions
+0000.704 () Processing table (MyISAM): wp_woocommerce_log
+0000.711 () Processing table (MyISAM): wp_woocommerce_order_itemmeta
+0000.715 () Processing table (MyISAM): wp_woocommerce_order_items
+0000.720 () Processing table (MyISAM): wp_woocommerce_payment_tokenmeta
+0000.725 () Processing table (MyISAM): wp_woocommerce_payment_tokens
+0000.731 () Processing table (MyISAM): wp_woocommerce_sessions
+0000.736 () Processing table (MyISAM): wp_woocommerce_shipping_zone_locations
+0000.741 () Processing table (MyISAM): wp_woocommerce_shipping_zone_methods
+0000.745 () Processing table (MyISAM): wp_woocommerce_shipping_zones
+0000.749 () Processing table (MyISAM): wp_woocommerce_tax_rate_locations
+0000.754 () Processing table (MyISAM): wp_woocommerce_tax_rates
+0000.768 () Processing table (InnoDB): wp_yoast_seo_links
+0000.779 () Processing table (InnoDB): wp_yoast_seo_meta
+0000.786 () Unlocking database and leaving maintenance mode
+0000.786 () Desativando modo de manutenção&#8230;
+0000.786 () Finished: lines processed: 84 in 0.75 seconds
+0000.786 () Limpando a sujeira...
+0000.797 () Entity: plugins
+0000.797 () restore_backup(backup_file=backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:43:"/usr/share/nginx/ergonrh/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.797 () Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip, 19 Mb)
+0002.612 () Moving old data: filesystem method / updraft_dir is potentially possible
+0002.612 () Moving old data: can potentially use wp_filesystem method / -old
+0002.612 () Movendo dados antigos para fora do caminho...
+0004.290 () Top-level entities being moved: remove-query-strings-from-static-resources, woocommerce, akismet, duplicator, wordpress-importer, bwp-minify, js_composer_salient, contact-form-7, hello.php, google-analytics-dashboard-for-wp, index.php, wordpress-seo, updraftplus, header-footer
+0004.316 () Movendo backup desempacotado para o local...
+0005.377 () Top-level entities being moved: remove-query-strings-from-static-resources, woocommerce, akismet, duplicator, wordpress-importer, js_composer_salient, contact-form-7, hello.php, google-analytics-dashboard-for-wp, index.php, wordpress-seo, updraftplus, header-footer
+0005.404 () Limpando a sujeira...
+0005.406 () Entity: themes
+0005.406 () restore_backup(backup_file=backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip, type=themes, info=a:2:{s:4:"path";s:42:"/usr/share/nginx/ergonrh/wp-content/themes";s:11:"description";s:5:"Temas";}, last_one=)
+0005.407 () Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip, 25.8 Mb)
+0006.476 () Moving old data: filesystem method / updraft_dir is potentially possible
+0006.476 () Moving old data: can potentially use wp_filesystem method / -old
+0006.476 () Movendo dados antigos para fora do caminho...
+0007.036 () Top-level entities being moved: twentyseventeen, twentysixteen, twentyfifteen, salient, index.php
+0007.047 () Movendo backup desempacotado para o local...
+0007.837 () Top-level entities being moved: twentyseventeen, twentysixteen, twentyfifteen, salient, index.php
+0007.856 () Limpando a sujeira...
+0007.857 () Entity: uploads
+0007.857 () restore_backup(backup_file=backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:43:"/usr/share/nginx/ergonrh/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0007.857 () Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip, 72.1 Mb)
+0009.057 () Moving old data: filesystem method / updraft_dir is potentially possible
+0009.057 () Moving old data: can potentially use wp_filesystem method / -old
+0009.057 () Movendo dados antigos para fora do caminho...
+0009.319 () Movendo backup desempacotado para o local...
+0009.596 () Limpando a sujeira...
+0009.598 () Entity: others
+0009.598 () restore_backup(backup_file=backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip, type=others, info=a:2:{s:4:"path";s:35:"/usr/share/nginx/ergonrh/wp-content";s:11:"description";s:6:"Outros";}, last_one=1)
+0009.599 () Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip, 1 Mb)
+0009.657 () Limpando a sujeira...
+0010.036 () Restore successful!
+0010.036 () Restore successful

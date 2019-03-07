@@ -1,0 +1,8 @@
+0000.002 () Opened log file at time: Mon, 16 Jul 2018 13:59:39 +0000 on https://www.ergonrh.com.br
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.7 PHP: 5.5.9-1ubuntu4.24 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-145-generic #194-Ubuntu SMP Thu Apr 5 15:20:44 UTC 2018 x86_64) MySQL: 5.5.59 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 107.5M | 108.8M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 5516.7 MB
+0000.003 () Restore job started. Entities to restore: plugins, themes, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.013 () Error message: Pastas não-removidas que existiam de um restore anterior foram encontradas (por favor utilize o botão "Deletar Antigos Diretórios" para deletá-las antes de tentar novamente): /usr/share/nginx/ergonrh/wp-content/plugins-old
+0000.014 () Restore failed...
+0000.014 () Error message: Pastas não-removidas que existiam de um restore anterior foram encontradas (por favor utilize o botão "Deletar Antigos Diretórios" para deletá-las antes de tentar novamente): /usr/share/nginx/ergonrh/wp-content/plugins-old
+0000.014 () Restore failed

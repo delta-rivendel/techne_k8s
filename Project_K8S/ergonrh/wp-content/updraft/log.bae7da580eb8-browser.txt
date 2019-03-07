@@ -1,0 +1,67 @@
+0000.012 (R) [notice] Procurando pelo arquivo db: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz
+0000.012 (R) [notice] Espera-se que o arquivo tenha o tamanho: 283.3 KB: OK
+0000.012 (R) [notice] Procurando pelo arquivo plugins: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip
+0000.012 (R) [notice] Espera-se que o arquivo tenha o tamanho: 19411.9 KB: OK
+0000.013 (R) [notice] Procurando pelo arquivo themes: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip
+0000.013 (R) [notice] Espera-se que o arquivo tenha o tamanho: 26398.4 KB: OK
+0000.013 (R) [notice] Procurando pelo arquivo uploads: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip
+0000.013 (R) [notice] Espera-se que o arquivo tenha o tamanho: 73816.5 KB: OK
+0000.013 (R) [notice] Procurando pelo arquivo others: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip
+0000.013 (R) [notice] Espera-se que o arquivo tenha o tamanho: 982 KB: OK
+0000.015 (R) [notice] Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz, 0.3 Mb)
+0000.016 (R) [notice] Restaurando o banco de dados (em um site grande isso pode levar um longo tempo - se o tempo se esgotar (o que pode ocorrer se a empresa de hospedagem web configurou a sua hospedagem com limitação de recursos) então você deveria utilizar um método diferente, como o phpMyAdmin)...
+0000.025 (R) [notice] Ativando modo de manutenção&#8230;
+0000.026 (R) [notice] Backup de: http://www.ergonrh.com.br
+0000.026 (R) [notice] URL do conteúdo: http://www.ergonrh.com.br/wp-content
+0000.026 (R) [notice] URLs para upload: http://www.ergonrh.com.br/wp-content/uploads
+0000.026 (R) [notice] Prefixo antigo da tabela: wp_
+0000.026 (R) [notice] Informações do site: multisite = 0
+0000.028 (R) [notice] New table prefix: wp_
+0000.029 (R) [notice] Tabela de processamento (MyISAM):  wp_options
+0000.085 (R) [notice] Tabela de processamento (MyISAM):  wp_users
+0000.091 (R) [notice] Tabela de processamento (MyISAM):  wp_usermeta
+0000.104 (R) [notice] Tabela de processamento (MyISAM):  wp_commentmeta
+0000.110 (R) [notice] Tabela de processamento (MyISAM):  wp_comments
+0000.115 (R) [notice] Tabela de processamento (MyISAM):  wp_links
+0000.122 (R) [notice] Tabela de processamento (MyISAM):  wp_postmeta
+0000.208 (R) [notice] Tabela de processamento (MyISAM):  wp_posts
+0000.323 (R) [notice] Tabela de processamento (MyISAM):  wp_term_relationships
+0000.330 (R) [notice] Tabela de processamento (MyISAM):  wp_term_taxonomy
+0000.337 (R) [notice] Tabela de processamento (MyISAM):  wp_termmeta
+0000.342 (R) [notice] Tabela de processamento (MyISAM):  wp_terms
+0000.349 (R) [notice] Tabela de processamento (MyISAM):  wp_duplicator_packages
+0000.354 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_api_keys
+0000.358 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_attribute_taxonomies
+0000.361 (R) [notice] Database queries processed: 50 in 0.34 seconds
+0000.364 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_downloadable_product_permissions
+0000.368 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_log
+0000.374 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_order_itemmeta
+0000.378 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_order_items
+0000.383 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_payment_tokenmeta
+0000.388 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_payment_tokens
+0000.393 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_sessions
+0000.398 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_shipping_zone_locations
+0000.402 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_shipping_zone_methods
+0000.406 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_shipping_zones
+0000.411 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_tax_rate_locations
+0000.416 (R) [notice] Tabela de processamento (MyISAM):  wp_woocommerce_tax_rates
+0000.422 (R) [notice] Tabela de processamento (InnoDB):  wp_yoast_seo_links
+0000.431 (R) [notice] Tabela de processamento (InnoDB):  wp_yoast_seo_meta
+0000.437 (R) [notice] Desativando modo de manutenção&#8230;
+0000.437 (R) [notice] Finished: lines processed: 84 in 0.42 seconds
+0000.438 (R) [notice] Limpando a sujeira...
+0000.442 (R) [notice] Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip, 19 Mb)
+0001.081 (R) [notice] Movendo dados antigos para fora do caminho...
+0001.770 (R) [notice] Movendo backup desempacotado para o local...
+0002.231 (R) [notice] Limpando a sujeira...
+0002.233 (R) [notice] Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip, 25.8 Mb)
+0002.703 (R) [notice] Movendo dados antigos para fora do caminho...
+0002.950 (R) [notice] Movendo backup desempacotado para o local...
+0003.201 (R) [notice] Limpando a sujeira...
+0003.203 (R) [notice] Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip, 72.1 Mb)
+0003.614 (R) [notice] Movendo dados antigos para fora do caminho...
+0003.686 (R) [notice] Movendo backup desempacotado para o local...
+0003.758 (R) [notice] Limpando a sujeira...
+0003.759 (R) [notice] Desempacotando o backup... (backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip, 1 Mb)
+0003.783 (R) [notice] Limpando a sujeira...
+0003.952 (R) [notice] Restore successful!

@@ -1,0 +1,154 @@
+0000.000 (0) Opened log file at time: Sat, 04 Aug 2018 14:06:56 +0000 on http://www.ergonrh.com.br
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.8 PHP: 5.5.9-1ubuntu4.24 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-145-generic #194-Ubuntu SMP Thu Apr 5 15:20:44 UTC 2018 x86_64) MySQL: 5.5.59 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 47.4M | 48.3M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 3669.1 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.004 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.005 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1533319225, seconds_ago=72391)
+0000.006 (0) Set semaphore last lock (fd) time to 2018-08-04 14:06:56
+0000.007 (0) Semaphore lock (fd) complete
+0000.009 (0) Backup run: resumption=0, nonce=42b8feec5822, begun at=1533391616 (0s ago), job type=backup
+0000.010 (0) Scheduling a resumption (1) after 300 seconds (1533391916) in case this run gets aborted
+0000.016 (0) Checking if we have a zip executable available
+0000.017 (0) Creation of backups of directories: beginning
+0000.019 (0) No backup of plugins: excluded by user's options
+0000.019 (0) No backup of themes: excluded by user's options
+0000.020 (0) No backup of uploads: excluded by user's options
+0000.020 (0) No backup of others: excluded by user's options
+0000.022 (0) Saving backup status to database (elements: 0)
+0000.025 (0) Beginning creation of database dump (WordPress DB)
+0000.029 (0) Table wp_options: Total expected rows (approximate): 537
+0000.070 (0) Table wp_options: Total rows added: 533 in 0.04 seconds
+0000.072 (0) Table wp_options: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_options.table.gz - 183.1 KB)
+0000.074 (0) Table wp_users: Total expected rows (approximate): 7
+0000.076 (0) Table wp_users: Total rows added: 7 in 0.00 seconds
+0000.077 (0) Table wp_users: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_users.table.gz - 1.1 KB)
+0000.079 (0) Table wp_usermeta: Total expected rows (approximate): 140
+0000.082 (0) Table wp_usermeta: Total rows added: 140 in 0.00 seconds
+0000.082 (0) Table wp_usermeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_usermeta.table.gz - 4.7 KB)
+0000.084 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0000.086 (0) Table wp_commentmeta: Total rows added: 2 in 0.00 seconds
+0000.086 (0) Table wp_commentmeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0000.088 (0) Table wp_comments: Total expected rows (approximate): 1
+0000.090 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0000.091 (0) Table wp_comments: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_comments.table.gz - 0.9 KB)
+0000.093 (0) Table wp_links: Total expected rows (approximate): 0
+0000.094 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0000.095 (0) Table wp_links: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_links.table.gz - 0.4 KB)
+0000.097 (0) Table wp_postmeta: Total expected rows (approximate): 1380
+0000.120 (0) Table wp_postmeta: Total rows added: 1380 in 0.02 seconds
+0000.121 (0) Table wp_postmeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_postmeta.table.gz - 42.2 KB)
+0000.123 (0) Table wp_posts: Total expected rows (approximate): 378
+0000.199 (0) Table wp_posts: Total rows added: 378 in 0.08 seconds
+0000.201 (0) Table wp_posts: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_posts.table.gz - 160.4 KB)
+0000.203 (0) Table wp_term_relationships: Total expected rows (approximate): 31
+0000.204 (0) Table wp_term_relationships: Total rows added: 31 in 0.00 seconds
+0000.205 (0) Table wp_term_relationships: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0000.207 (0) Table wp_term_taxonomy: Total expected rows (approximate): 25
+0000.209 (0) Table wp_term_taxonomy: Total rows added: 25 in 0.00 seconds
+0000.209 (0) Table wp_term_taxonomy: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0000.211 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0000.212 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0000.213 (0) Table wp_termmeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_termmeta.table.gz - 0.4 KB)
+0000.215 (0) Table wp_terms: Total expected rows (approximate): 25
+0000.217 (0) Table wp_terms: Total rows added: 25 in 0.00 seconds
+0000.217 (0) Table wp_terms: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_terms.table.gz - 0.8 KB)
+0000.219 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 35
+0000.221 (0) Table wp_yoast_seo_links: Total rows added: 35 in 0.00 seconds
+0000.222 (0) Table wp_yoast_seo_links: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_yoast_seo_links.table.gz - 0.9 KB)
+0000.224 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 34
+0000.225 (0) Table wp_yoast_seo_meta: Total rows added: 34 in 0.00 seconds
+0000.226 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_yoast_seo_meta.table.gz - 0.5 KB)
+0000.228 (0) Table wp_duplicator_packages: Total expected rows (approximate): 0
+0000.229 (0) Table wp_duplicator_packages: Total rows added: 0 in 0.00 seconds
+0000.229 (0) Table wp_duplicator_packages: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_duplicator_packages.table.gz - 0.4 KB)
+0000.231 (0) Table wp_smush_dir_images: Total expected rows (approximate): 0
+0000.233 (0) Table wp_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0000.233 (0) Table wp_smush_dir_images: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_smush_dir_images.table.gz - 0.4 KB)
+0000.235 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0000.236 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0000.237 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0000.239 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0000.240 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0000.241 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0000.243 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0000.244 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0000.245 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0000.247 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0000.248 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0000.249 (0) Table wp_woocommerce_log: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0000.251 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0000.252 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0000.253 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0000.255 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0000.256 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0000.257 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0000.259 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0000.260 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0000.260 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0000.262 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0000.264 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0000.264 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0000.266 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0000.268 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0000.268 (0) Table wp_woocommerce_sessions: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0000.270 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0000.271 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0000.272 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0000.274 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0000.275 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0000.275 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0000.277 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0000.279 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0000.279 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0000.281 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0000.282 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0000.283 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0000.285 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0000.286 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0000.287 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0000.289 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_options.table.gz (1/30): adding to final database dump
+0000.324 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_users.table.gz (2/30): adding to final database dump
+0000.325 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_usermeta.table.gz (3/30): adding to final database dump
+0000.326 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_commentmeta.table.gz (4/30): adding to final database dump
+0000.327 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_comments.table.gz (5/30): adding to final database dump
+0000.328 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_links.table.gz (6/30): adding to final database dump
+0000.329 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_postmeta.table.gz (7/30): adding to final database dump
+0000.343 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_posts.table.gz (8/30): adding to final database dump
+0000.399 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_term_relationships.table.gz (9/30): adding to final database dump
+0000.400 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_term_taxonomy.table.gz (10/30): adding to final database dump
+0000.401 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_termmeta.table.gz (11/30): adding to final database dump
+0000.402 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_terms.table.gz (12/30): adding to final database dump
+0000.402 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_yoast_seo_links.table.gz (13/30): adding to final database dump
+0000.403 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_yoast_seo_meta.table.gz (14/30): adding to final database dump
+0000.404 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_duplicator_packages.table.gz (15/30): adding to final database dump
+0000.405 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_smush_dir_images.table.gz (16/30): adding to final database dump
+0000.405 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_api_keys.table.gz (17/30): adding to final database dump
+0000.406 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_attribute_taxonomies.table.gz (18/30): adding to final database dump
+0000.407 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (19/30): adding to final database dump
+0000.407 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_log.table.gz (20/30): adding to final database dump
+0000.408 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_order_itemmeta.table.gz (21/30): adding to final database dump
+0000.409 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_order_items.table.gz (22/30): adding to final database dump
+0000.409 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_payment_tokenmeta.table.gz (23/30): adding to final database dump
+0000.410 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_payment_tokens.table.gz (24/30): adding to final database dump
+0000.411 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_sessions.table.gz (25/30): adding to final database dump
+0000.411 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zone_locations.table.gz (26/30): adding to final database dump
+0000.412 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zone_methods.table.gz (27/30): adding to final database dump
+0000.413 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_shipping_zones.table.gz (28/30): adding to final database dump
+0000.413 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_tax_rate_locations.table.gz (29/30): adding to final database dump
+0000.414 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db-table-wp_woocommerce_tax_rates.table.gz (30/30): adding to final database dump
+0000.415 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db.gz: finished writing out complete database file (376 KB)
+0000.422 (0) Total database tables backed up: 30 (backup_2018-08-04-1106_Ergon_42b8feec5822-db.gz, size: 406051, sha256)
+0000.429 (0) backup_2018-08-04-1106_Ergon_42b8feec5822-db.gz: db: This file has not yet been successfully uploaded: will queue
+0000.429 (0) Saving backup history. Total backup size: 396.5 KB
+0000.432 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0000.434 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0000.434 (0) No remote despatch: user chose no remote backup service
+0000.436 (0) Recording as successfully uploaded: backup_2018-08-04-1106_Ergon_42b8feec5822-db.gz (3e3881ba8f97658b2629c5e4a25ccea7)
+0000.438 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0000.438 (0) Resume backup (42b8feec5822, 0): finish run
+0000.439 (0) Decremented the semaphore (fd) by 1
+0000.440 (0) Semaphore (fd) unlocked
+0000.441 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0000.442 (0) The backup apparently succeeded and is now complete
+0000.443 (0) No email will/can be sent - the user has not configured an email address.
+0000.443 (0) O backup aparentemente foi bem sucedido e está completo agora.

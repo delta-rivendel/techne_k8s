@@ -1,0 +1,284 @@
+0000.000 (0) Opened log file at time: Tue, 20 Feb 2018 18:31:07 +0000 on http://www.ergonrh.com.br
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.5.9-1ubuntu4.21 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-119-generic #166-Ubuntu SMP Wed May 3 12:18:55 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 62.6M | 63M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 2176.6 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.007 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.011 (0) Set semaphore last lock (fd) time to 2018-02-20 18:31:07
+0000.011 (0) Semaphore lock (fd) complete
+0000.015 (0) Backup run: resumption=0, nonce=62bb4f92c152, begun at=1519151467 (0s ago), job type=backup
+0000.019 (0) Scheduling a resumption (1) after 300 seconds (1519151767) in case this run gets aborted
+0000.031 (0) Checking if we have a zip executable available
+0000.034 (0) Creation of backups of directories: beginning
+0000.038 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.233 (0) Total entities for the zip file: 723 directories, 4458 files (0 skipped as non-modified), 60.5 MB
+0000.254 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.267 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.277 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.292 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.307 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.308 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 4458 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.914 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 600 files added (on-disk size: 2149.7 KB)
+0000.921 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 700 files added (on-disk size: 2149.7 KB)
+0000.929 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 800 files added (on-disk size: 2149.7 KB)
+0000.937 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 900 files added (on-disk size: 2149.7 KB)
+0000.945 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1000 files added (on-disk size: 2149.7 KB)
+0000.946 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 4458 files batched, 501 (1002) added so far); re-opening (prior size: 2149.7 KB)
+0001.185 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1100 files added (on-disk size: 3644.3 KB)
+0001.194 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1200 files added (on-disk size: 3644.3 KB)
+0001.203 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1300 files added (on-disk size: 3644.3 KB)
+0001.214 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1400 files added (on-disk size: 3644.3 KB)
+0001.224 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1500 files added (on-disk size: 3644.3 KB)
+0001.226 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4 MB, 4458 files batched, 501 (1503) added so far); re-opening (prior size: 3644.3 KB)
+0001.472 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1600 files added (on-disk size: 5221.4 KB)
+0001.483 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1700 files added (on-disk size: 5221.4 KB)
+0001.495 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1800 files added (on-disk size: 5221.4 KB)
+0001.507 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 1900 files added (on-disk size: 5221.4 KB)
+0001.519 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2000 files added (on-disk size: 5221.4 KB)
+0001.521 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 MB, 4458 files batched, 501 (2004) added so far); re-opening (prior size: 5221.4 KB)
+0002.608 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2100 files added (on-disk size: 7247.3 KB)
+0002.636 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2200 files added (on-disk size: 7247.3 KB)
+0002.663 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2300 files added (on-disk size: 7247.3 KB)
+0002.685 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2400 files added (on-disk size: 7247.3 KB)
+0002.708 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2500 files added (on-disk size: 7247.3 KB)
+0002.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.3 MB, 4458 files batched, 501 (2505) added so far); re-opening (prior size: 7247.3 KB)
+0003.575 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2600 files added (on-disk size: 10206.2 KB)
+0003.589 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2700 files added (on-disk size: 10206.2 KB)
+0003.602 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2800 files added (on-disk size: 10206.2 KB)
+0003.616 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 2900 files added (on-disk size: 10206.2 KB)
+0003.630 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3000 files added (on-disk size: 10206.2 KB)
+0003.632 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 4458 files batched, 501 (3006) added so far); re-opening (prior size: 10206.2 KB)
+0004.726 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3100 files added (on-disk size: 12553 KB)
+0004.755 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3200 files added (on-disk size: 12553 KB)
+0004.784 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3300 files added (on-disk size: 12553 KB)
+0004.812 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3400 files added (on-disk size: 12553 KB)
+0004.846 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3500 files added (on-disk size: 12553 KB)
+0004.851 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.4 MB, 4458 files batched, 501 (3507) added so far); re-opening (prior size: 12553 KB)
+0006.186 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3600 files added (on-disk size: 17817.3 KB)
+0006.204 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3700 files added (on-disk size: 17817.3 KB)
+0006.221 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3800 files added (on-disk size: 17817.3 KB)
+0006.237 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 3900 files added (on-disk size: 17817.3 KB)
+0006.254 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 4000 files added (on-disk size: 17817.3 KB)
+0006.257 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 4458 files batched, 501 (4008) added so far); re-opening (prior size: 17817.3 KB)
+0006.552 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 4100 files added (on-disk size: 18683.2 KB)
+0006.570 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 4200 files added (on-disk size: 18683.2 KB)
+0006.588 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 4300 files added (on-disk size: 18683.2 KB)
+0006.606 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip.tmp: 4400 files added (on-disk size: 18683.2 KB)
+0006.981 (0) Created plugins zip (0) - 19411.9 KB in 6.9 s (2796.6 KB/s) (sha1: 80835c7d6e4addd09d324e783ceb53d945f16607, sha256: 9c8b8e8848943fd6df0fc033533d8fd52e6e9bf86b6b0631e5935e02eae566ed)
+0006.983 (0) Beginning creation of dump of themes (split every: 400 MB)
+0007.019 (0) Total entities for the zip file: 239 directories, 2252 files (0 skipped as non-modified), 52.3 MB
+0007.024 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0007.027 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0007.032 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0007.037 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0007.043 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0007.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 2252 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0007.383 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 600 files added (on-disk size: 3113.5 KB)
+0007.391 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 700 files added (on-disk size: 3113.5 KB)
+0007.398 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 800 files added (on-disk size: 3113.5 KB)
+0007.406 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 900 files added (on-disk size: 3113.5 KB)
+0007.413 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1000 files added (on-disk size: 3113.5 KB)
+0007.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.5 MB, 2252 files batched, 501 (1002) added so far); re-opening (prior size: 3113.5 KB)
+0008.090 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1100 files added (on-disk size: 11649.8 KB)
+0008.099 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1200 files added (on-disk size: 11649.8 KB)
+0008.108 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1300 files added (on-disk size: 11649.8 KB)
+0008.116 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1400 files added (on-disk size: 11649.8 KB)
+0008.124 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1500 files added (on-disk size: 11649.8 KB)
+0008.125 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.5 MB, 2252 files batched, 501 (1503) added so far); re-opening (prior size: 11649.8 KB)
+0008.633 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1600 files added (on-disk size: 17727.1 KB)
+0008.644 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1700 files added (on-disk size: 17727.1 KB)
+0008.656 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1800 files added (on-disk size: 17727.1 KB)
+0008.667 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 1900 files added (on-disk size: 17727.1 KB)
+0008.677 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 2000 files added (on-disk size: 17727.1 KB)
+0008.678 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.1 MB, 2252 files batched, 501 (2004) added so far); re-opening (prior size: 17727.1 KB)
+0008.839 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 2100 files added (on-disk size: 18249.3 KB)
+0008.850 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip.tmp: 2200 files added (on-disk size: 18249.3 KB)
+0010.060 (0) Created themes zip (0) - 26398.4 KB in 3.1 s (8581.7 KB/s) (sha1: 80ba094d42eadd0fe180624f4e6f333ea6e58b80, sha256: d04915fe829bbbd1fc1bd7169a752289c482773d1d17fb6ebb85f791efce63cd)
+0010.062 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0010.063 (0) Looking for candidates to back up in: /usr/share/nginx/ergonrh/wp-content/uploads
+0010.063 (0) finding files: woocommerce_uploads: adding to list (1)
+0010.064 (0) finding files: redux: adding to list (2)
+0010.065 (0) finding files: js_composer: adding to list (3)
+0010.065 (0) finding files: 2018: adding to list (4)
+0010.066 (0) finding files: 2013: adding to list (5)
+0010.067 (0) finding files: 2017: adding to list (6)
+0010.067 (0) finding files: wc-logs: adding to list (7)
+0010.068 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0010.076 (0) Total entities for the zip file: 15 directories, 727 files (0 skipped as non-modified), 72.8 MB
+0010.079 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.082 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 727 files batched, 215 (215) added so far); re-opening (prior size: 0 KB)
+0011.079 (0) A useful amount of data was added after this amount of zip processing: 1.1 s (normalised: 1.1 s, rate: 23717.2 KB/s)
+0011.081 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.0909969806671, normalised_time=1.0793852227064, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=145718504)
+0011.085 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 300 files added (on-disk size: 25824.9 KB)
+0011.090 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 400 files added (on-disk size: 25824.9 KB)
+0011.095 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 500 files added (on-disk size: 25824.9 KB)
+0011.101 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 600 files added (on-disk size: 25824.9 KB)
+0011.107 (0) Zip: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip.tmp: 700 files added (on-disk size: 25824.9 KB)
+0011.108 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (47.1 MB, 727 files batched, 501 (716) added so far); re-opening (prior size: 25824.9 KB)
+0014.605 (0) Created uploads zip (0) - 73816.5 KB in 4.5 s (16271.9 KB/s) (sha1: 223408d4adb87cb9d684c6990544c8a5efeb6433, sha256: bb61f1d6ea0fbe68bff8e98be21940de34a8f917674798454884fc5256164958)
+0014.607 (0) Beginning backup of other directories found in the content directory (index: 0)
+0014.608 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0014.609 (0) Looking for candidates to back up in: /usr/share/nginx/ergonrh/wp-content
+0014.610 (0) finding files: updraft: skipping: this is the updraft directory
+0014.610 (0) finding files: languages: adding to list (1)
+0014.611 (0) finding files: themes: skipping: this is the themes directory
+0014.611 (0) finding files: plugins: skipping: this is the plugins directory
+0014.612 (0) finding files: uploads: skipping: this is the uploads directory
+0014.613 (0) finding files: index.php: adding to list (2)
+0014.613 (0) finding files: upgrade: skipping: excluded by options
+0014.616 (0) Total entities for the zip file: 3 directories, 27 files (0 skipped as non-modified), 3.5 MB
+0014.966 (0) Created others zip (0) - 982 KB in 0.4 s (2790.1 KB/s) (sha1: 6c6f7687905984552dfd5c536fda104d6a8aea71, sha256: b5a9934026394a77d278b8a59885a7dc051c2a2951155fc4efd7727030b33a31)
+0014.970 (0) Saving backup status to database (elements: 8)
+0014.972 (0) Beginning creation of database dump (WordPress DB)
+0014.976 (0) Table wp_options: Total expected rows (approximate): 329
+0015.006 (0) Table wp_options: Total rows added: 325 in 0.03 seconds
+0015.007 (0) Table wp_options: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_options.table.gz - 132.8 KB)
+0015.010 (0) Table wp_users: Total expected rows (approximate): 6
+0015.012 (0) Table wp_users: Total rows added: 6 in 0.00 seconds
+0015.012 (0) Table wp_users: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_users.table.gz - 1 KB)
+0015.015 (0) Table wp_usermeta: Total expected rows (approximate): 112
+0015.018 (0) Table wp_usermeta: Total rows added: 112 in 0.00 seconds
+0015.019 (0) Table wp_usermeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_usermeta.table.gz - 4 KB)
+0015.021 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0015.023 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0015.024 (0) Table wp_commentmeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0015.026 (0) Table wp_comments: Total expected rows (approximate): 0
+0015.028 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0015.028 (0) Table wp_comments: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_comments.table.gz - 0.5 KB)
+0015.031 (0) Table wp_links: Total expected rows (approximate): 0
+0015.032 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0015.033 (0) Table wp_links: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_links.table.gz - 0.4 KB)
+0015.036 (0) Table wp_postmeta: Total expected rows (approximate): 904
+0015.050 (0) Table wp_postmeta: Total rows added: 904 in 0.01 seconds
+0015.051 (0) Table wp_postmeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_postmeta.table.gz - 17.5 KB)
+0015.054 (0) Table wp_posts: Total expected rows (approximate): 321
+0015.128 (0) Table wp_posts: Total rows added: 321 in 0.07 seconds
+0015.129 (0) Table wp_posts: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_posts.table.gz - 124.3 KB)
+0015.132 (0) Table wp_term_relationships: Total expected rows (approximate): 25
+0015.133 (0) Table wp_term_relationships: Total rows added: 25 in 0.00 seconds
+0015.134 (0) Table wp_term_relationships: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0015.137 (0) Table wp_term_taxonomy: Total expected rows (approximate): 25
+0015.139 (0) Table wp_term_taxonomy: Total rows added: 25 in 0.00 seconds
+0015.139 (0) Table wp_term_taxonomy: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0015.142 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0015.143 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0015.144 (0) Table wp_termmeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_termmeta.table.gz - 0.4 KB)
+0015.146 (0) Table wp_terms: Total expected rows (approximate): 25
+0015.148 (0) Table wp_terms: Total rows added: 25 in 0.00 seconds
+0015.149 (0) Table wp_terms: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_terms.table.gz - 0.8 KB)
+0015.151 (0) Table wp_duplicator_packages: Total expected rows (approximate): 0
+0015.153 (0) Table wp_duplicator_packages: Total rows added: 0 in 0.00 seconds
+0015.153 (0) Table wp_duplicator_packages: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_duplicator_packages.table.gz - 0.4 KB)
+0015.156 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0015.157 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0015.158 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0015.161 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0015.162 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0015.163 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0015.165 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0015.167 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0015.167 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0015.170 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0015.171 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0015.172 (0) Table wp_woocommerce_log: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0015.175 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0015.176 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0015.177 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0015.179 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0015.180 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0015.181 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0015.184 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0015.185 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0015.186 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0015.188 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0015.190 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0015.190 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0015.193 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0015.194 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0015.195 (0) Table wp_woocommerce_sessions: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0015.198 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0015.199 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0015.200 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0015.202 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0015.204 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0015.204 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0015.207 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0015.208 (0) Table wp_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0015.209 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0015.211 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0015.213 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0015.213 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0015.216 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0015.217 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0015.218 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0015.221 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 12
+0015.222 (0) Table wp_yoast_seo_links: Total rows added: 12 in 0.00 seconds
+0015.223 (0) Table wp_yoast_seo_links: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_yoast_seo_links.table.gz - 0.6 KB)
+0015.226 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 14
+0015.227 (0) Table wp_yoast_seo_meta: Total rows added: 14 in 0.00 seconds
+0015.228 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0015.230 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_options.table.gz (1/29): adding to final database dump
+0015.254 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_users.table.gz (2/29): adding to final database dump
+0015.256 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_usermeta.table.gz (3/29): adding to final database dump
+0015.257 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_commentmeta.table.gz (4/29): adding to final database dump
+0015.258 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_comments.table.gz (5/29): adding to final database dump
+0015.259 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_links.table.gz (6/29): adding to final database dump
+0015.260 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_postmeta.table.gz (7/29): adding to final database dump
+0015.267 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_posts.table.gz (8/29): adding to final database dump
+0015.316 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_term_relationships.table.gz (9/29): adding to final database dump
+0015.318 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_term_taxonomy.table.gz (10/29): adding to final database dump
+0015.319 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_termmeta.table.gz (11/29): adding to final database dump
+0015.319 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_terms.table.gz (12/29): adding to final database dump
+0015.320 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_duplicator_packages.table.gz (13/29): adding to final database dump
+0015.321 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_api_keys.table.gz (14/29): adding to final database dump
+0015.322 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_attribute_taxonomies.table.gz (15/29): adding to final database dump
+0015.323 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (16/29): adding to final database dump
+0015.324 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_log.table.gz (17/29): adding to final database dump
+0015.324 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_order_itemmeta.table.gz (18/29): adding to final database dump
+0015.325 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_order_items.table.gz (19/29): adding to final database dump
+0015.326 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_payment_tokenmeta.table.gz (20/29): adding to final database dump
+0015.327 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_payment_tokens.table.gz (21/29): adding to final database dump
+0015.328 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_sessions.table.gz (22/29): adding to final database dump
+0015.328 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zone_locations.table.gz (23/29): adding to final database dump
+0015.329 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zone_methods.table.gz (24/29): adding to final database dump
+0015.330 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_shipping_zones.table.gz (25/29): adding to final database dump
+0015.331 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_tax_rate_locations.table.gz (26/29): adding to final database dump
+0015.332 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_woocommerce_tax_rates.table.gz (27/29): adding to final database dump
+0015.333 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_yoast_seo_links.table.gz (28/29): adding to final database dump
+0015.333 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db-table-wp_yoast_seo_meta.table.gz (29/29): adding to final database dump
+0015.334 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz: finished writing out complete database file (264 KB)
+0015.341 (0) Total database tables backed up: 29 (backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz, size: 290149, sha256)
+0015.346 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0015.346 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0015.347 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0015.348 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip: others: This file has not yet been successfully uploaded: will queue
+0015.348 (0) backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz: db: This file has not yet been successfully uploaded: will queue
+0015.349 (0) Saving backup history. Total backup size: 118.1 MB
+0015.351 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0015.353 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.354 (0) No remote despatch: user chose no remote backup service
+0015.355 (0) Recording as successfully uploaded: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip (311335ba9a536c6d938243f03f54fae1)
+0015.359 (0) Recording as successfully uploaded: backup_2018-02-20-1531_Ergon_62bb4f92c152-themes.zip (673acd8bb8fc5a07490de508afe12829)
+0015.362 (0) Recording as successfully uploaded: backup_2018-02-20-1531_Ergon_62bb4f92c152-uploads.zip (4111941fdb6c346577ba419ce9665708)
+0015.365 (0) Recording as successfully uploaded: backup_2018-02-20-1531_Ergon_62bb4f92c152-others.zip (b3a5f64247eac89e9f806b3171a0f19b)
+0015.368 (0) Recording as successfully uploaded: backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz (5ebf43fcafc4cada5fb36fee2cb1581b)
+0015.370 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0015.371 (0) Resume backup (62bb4f92c152, 0): finish run
+0015.372 (0) Decremented the semaphore (fd) by 1
+0015.373 (0) Semaphore (fd) unlocked
+0015.374 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0015.376 (0) The backup apparently succeeded and is now complete
+0015.377 (0) No email will/can be sent - the user has not configured an email address.
+0015.377 (0) O backup aparentemente foi bem sucedido e está completo agora.
+0000.000 (1) Opened log file at time: Tue, 20 Feb 2018 18:38:01 +0000 on http://www.ergonrh.com.br
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.5.9-1ubuntu4.21 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-119-generic #166-Ubuntu SMP Wed May 3 12:18:55 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 50M | 51M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (1) Free space on disk containing Updraft's temporary directory: 1852.1 MB
+0000.009 (1) This backup task (62bb4f92c152) is either complete or began over 2 days ago: ending (1519151881.3723, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Tue, 20 Feb 2018 19:28:40 +0000 on http://www.ergonrh.com.br
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.4 PHP: 5.5.9-1ubuntu4.21 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-119-generic #166-Ubuntu SMP Wed May 3 12:18:55 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 50M | 51M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.001 (1) Free space on disk containing Updraft's temporary directory: 1799.4 MB
+0000.002 (1) This backup task (62bb4f92c152) is either complete or began over 2 days ago: ending (1519154920.5254, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Mon, 16 Jul 2018 14:00:17 +0000 on https://www.ergonrh.com.br
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.9.7 PHP: 5.5.9-1ubuntu4.24 (fpm-fcgi, Linux ip-10-113-128-204 3.13.0-145-generic #194-Ubuntu SMP Thu Apr 5 15:20:44 UTC 2018 x86_64) MySQL: 5.5.59 WPLANG: pt_BR Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 50.5M | 51.8M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (1) Free space on disk containing Updraft's temporary directory: 5583.1 MB
+0000.003 (1) This backup task (62bb4f92c152) is either complete or began over 2 days ago: ending (1531749617.8033, ) (existing jobdata keys: )

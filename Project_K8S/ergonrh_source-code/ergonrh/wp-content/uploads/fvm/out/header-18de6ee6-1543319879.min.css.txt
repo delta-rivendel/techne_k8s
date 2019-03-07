@@ -1,0 +1,18 @@
+PROCESSED on Tue, 27 Nov 2018 12:27:59 +0000
+/wp-includes/css/dashicons.min.css
+/wp-includes/css/admin-bar.min.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+/wp-content/themes/salient/css/rgs.css
+/wp-content/themes/salient/css/font-awesome.min.css
+/wp-content/themes/salient/style.css
+/wp-content/themes/salient/css/magnific.css
+/wp-content/themes/salient/css/responsive.css
+/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css
+/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css
+/wp-content/plugins/wp-fastest-cache/css/toolbar.css
+/wp-content/plugins/wordpress-seo/css/dist/adminbar-921.min.css
+/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css
+/wp-content/plugins/jetpack/css/jetpack.css
+PROCESSED from http://www.ergonrh.com.br/blog/

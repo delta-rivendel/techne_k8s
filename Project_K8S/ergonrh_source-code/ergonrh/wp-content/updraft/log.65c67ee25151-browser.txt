@@ -1,0 +1,6 @@
+0000.012 (R) [notice] Procurando pelo arquivo db: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-db.gz
+0000.012 (R) [notice] Espera-se que o arquivo tenha o tamanho: 283.3 KB: OK
+0000.012 (R) [notice] Procurando pelo arquivo plugins: nome do arquivo: backup_2018-02-20-1531_Ergon_62bb4f92c152-plugins.zip
+0000.012 (R) [notice] Espera-se que o arquivo tenha o tamanho: 19411.9 KB: OK
+0000.013 (R) [warning] Erro: Pastas não-removidas que existiam de um restore anterior foram encontradas (por favor utilize o botão "Deletar Antigos Diretórios" para deletá-las antes de tentar novamente): /usr/share/nginx/ergonrh/wp-content/plugins-old
+0000.013 (R) [notice] Restore failed...

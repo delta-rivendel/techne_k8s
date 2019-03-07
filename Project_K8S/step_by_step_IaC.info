@@ -1,0 +1,2 @@
+#Roadmap of steps to deploy a site of Techne in K8S, using Infrastrutucture as code
+#Tools Used: Ansible, Git, Docker, Shell Script

@@ -1,0 +1,42 @@
+---
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: ergonrh-hmg
+  namespace: techne-hmg
+  labels:
+    app: ergonrh-hmg
+spec:
+  selector:
+    matchLabels:
+      app: ergonrh-hmg
+      tier: frontend
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: ergonrh-hmg
+        tier: frontend
+    spec:
+      containers:
+      - image: lazevedorivendel/techne-hmg:ergonrh-hmg-2
+        name: ergonrh-hmg-2
+        env:
+        - name: WORDPRESS_DB_HOST
+          value: wptechneprd.cgexaccvir8f.us-east-1.rds.amazonaws.com
+        - name: WORDPRESS_DB_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: mysql-pass
+              key: password
+        ports:
+        - containerPort: 80
+          name: ergonrh-hmg
+        volumeMounts:
+        - name: efs-ergonrh-hmg
+          mountPath: /usr/share/nginx/ergonrh
+      volumes:
+      - name: efs-ergonrh-hmg
+        persistentVolumeClaim:
+          claimName: efs-ergonrh-hmg-claim

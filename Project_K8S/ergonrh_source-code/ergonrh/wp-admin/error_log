@@ -1,0 +1,7 @@
+[20-Nov-2017 11:18:23] Erro de banco de dados do WordPress Unknown column 'wp_' in 'field list' para a consulta SELECT wp_
+[21-Nov-2017 18:16:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hg142130/public_html/ergon/wp-includes/class-wp-image-editor-imagick.php on line 363
+[22-Nov-2017 01:46:58] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/hg142130/public_html/ergon/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[22-Nov-2017 01:46:59] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/hg142130/public_html/ergon/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[22-Nov-2017 01:47:00] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/hg142130/public_html/ergon/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[25-Nov-2017 18:41:48] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hg142130/public_html/ergon/wp-includes/class-wp-image-editor-imagick.php on line 362
+[25-Nov-2017 18:43:45] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hg142130/public_html/ergon/wp-includes/class-wp-image-editor-imagick.php on line 362

